@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300"/>
+</div>
 <!--
 **mdabir1203/mdabir1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
