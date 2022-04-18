@@ -1,8 +1,12 @@
-### Hi there 👋
 
 
-<div id="header" align="center">
+<div id="header" align="center">  
   <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300"/>
+</div>
+###  Welcome to u_know_who_ab1r's World 👋
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 <!--
 **mdabir1203/mdabir1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
