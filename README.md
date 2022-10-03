@@ -5,8 +5,8 @@
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=9&coalitionId=piscine)
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=21&coalitionId=151) 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)                                                                                                                                                                                                       :bangladesh: :germany:                   
-- 🔭  A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
-- :goberserk: Knack for figuring of the box Troubleshooting 
+- :electron: A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
+- :goberserk: Knack for figuring out of the box Troubleshooting 
 - 💬 Ask me about : Spirituality, Meditation, AI and Machine Learning
 - 📫 Reach me at: +4915211783733(Whatsapp) or Linkedin: www.linkedin.com/abir-abbas
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
