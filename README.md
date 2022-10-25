@@ -7,8 +7,9 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)                                                                                                                                                                                                       :bangladesh: :germany:                   
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting 
-- 💬 Ask me about : Spirituality, Meditation, Music, Movies
--                  Deep Learning, AI and Cybersecurity tricks
+- 💬 Ask me about : 
+   In General : Spirituality, Music, Movies, Travel Stories
+   Tech Specialty : Deep Learning, AI and Cybersecurity
 - 📫 Reach me at: +4915211783733(Whatsapp) or Linkedin: www.linkedin.com/abir-abbas
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 --> TAGS I got from my Friends : "Microwave Chef" "Phoenix"
