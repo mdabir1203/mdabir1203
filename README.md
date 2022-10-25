@@ -17,3 +17,5 @@
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 --> TAGS I got from my Friends : "Microwave Chef" "Phoenix"
  :bangladesh: 🇩🇪
+ https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+ 
