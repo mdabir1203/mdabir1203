@@ -12,8 +12,8 @@
         
         Spirituality, Music, Movies, Travel Stories
    
-- Tech Specialty : **Deep Learning, AI and Cybersecurity **
-- 📫 Reach me at: Linkedin: www.linkedin.com/abir-abbas
+- Tech Specialty : **Deep Learning, AI and Cybersecurity and Embedded Projects **
+- 📫 Reach me at: [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/abir-abbas
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 --> TAGS I got from my Friends : "Microwave Chef" "Phoenix"
  :bangladesh: 🇩🇪
@@ -22,8 +22,12 @@
  <img src= "https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
  <img src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
  <img src= "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
- <img src= " https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ <img src= "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+ <img src= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  
- 
+
 
  
