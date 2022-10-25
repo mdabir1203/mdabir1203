@@ -8,9 +8,10 @@
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting 
 - 💬 Ask me about : 
-   In General : **Spirituality, Music, Movies, Travel Stories**
+        
+        **Spirituality, Music, Movies, Travel Stories**
    
-   Tech Specialty : **Deep Learning, AI and Cybersecurity**
+       Tech Specialty : **Deep Learning, AI and Cybersecurity**
    
 - 📫 Reach me at: +4915211783733(Whatsapp) or Linkedin: www.linkedin.com/abir-abbas
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
