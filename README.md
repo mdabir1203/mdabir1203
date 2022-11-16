@@ -2,7 +2,6 @@
   <img src="https://42wolfsburg.de/wp-content/uploads/2022/01/42logo_site-5.svg" height="128px"  >
 </div>
 
-   ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=9&coalitionId=piscine)
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=21&coalitionId=151) 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203&langs_count=10&layout=compact)                                                                                                                                                                     
