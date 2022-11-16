@@ -4,7 +4,7 @@
 
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=9&coalitionId=piscine)
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=21&coalitionId=151) 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)                                                                                                                                                                                                 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203                                                                                                                                                                     
  
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting 
@@ -12,7 +12,7 @@
         
         Spirituality, Music, Movies, Travel Stories
    
-- Tech Specialty : **Deep Learning, AI and Cybersecurity and Embedded Projects **
+- Tech Specialty : **Deep Learning,AI and Cybersecurity **
 - 📫 Reach me at: [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/abir-abbas
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 --> TAGS I got from my Friends : "Microwave Chef" "Phoenix"
