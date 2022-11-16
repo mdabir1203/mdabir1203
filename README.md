@@ -4,7 +4,8 @@
 
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=9&coalitionId=piscine)
    ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=21&coalitionId=151) 
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203                                                                                                                                                                     
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203)                                                                                                                                                                     
  
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting 
