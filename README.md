@@ -13,7 +13,9 @@
         Spirituality, Music, Movies, Travel Stories
    
 - Tech Specialty : **Deep Learning,AI and Cybersecurity **
-- 📫 Reach me at: [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/abir-abbas
+- 📫 Reach me at with your Remote Job offer / Need any Help with development/Need Solutions: 
+[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/abir-abbas
+[Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 --> TAGS I got from my Friends : "Microwave Chef" "Phoenix"
  :bangladesh: 🇩🇪
