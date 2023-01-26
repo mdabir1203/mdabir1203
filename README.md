@@ -6,8 +6,8 @@
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdabir1203&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203&langs_count=10&layout=compact)                                                                                                                                                                     
  
-- :electron: A Mechanical Engineer, Finds Fun in Coding, Learning any new Tech,Software,Hacks 
-- :goberserk: Knack for figuring out of the box Troubleshooting 
+- :electron: A Mechanical Engineer, Finds Fun in Coding, Developing and Integrating any new Tech,Software,Hacks 
+- :goberserk: Knack for figuring out of the box Troubleshooting. 
 - 💬 Ask me about : 
         
         Spirituality, Music, Movies, Travel Stories
