@@ -3,8 +3,9 @@
 </div>
 
    
-  ![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=21&coalitionId=151) 
- [![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![mabbas's 42 stats](https://badge42.vercel.app/api/v2/cl33nxvl8001109l2p31ppqso/stats?cursusId=21&coalitionId=151)
+
+[![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203&langs_count=10&layout=compact)                                                                                                                                                                     
  
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Developing and Integrating any new Tech,Software,Hacks 
