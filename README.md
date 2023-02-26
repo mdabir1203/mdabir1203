@@ -26,6 +26,4 @@
  :bangladesh: 🇩🇪
  
 
-<div style="font-size: 4em">
-٤٢
-</div>
+<div style="font-size: 4em"> ٤٢ </div>
