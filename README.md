@@ -28,15 +28,14 @@
 
 
  <div style="font-size: 2em">
-  :RUMI_DIGIT_TWO :10E61
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
-:green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:
+1111111111111111111111111111111111111111
+1111111111111111111111111111111111111111
+1111111111111111111111111111111111111111
+1111111111111111111111111111111111111111
+1111111111111111111111111111111111111111
+<span style="color:red">0000000000000000000000000000000000000000</span>
+<span style="color:red">0000000000000000000000000000000000000000</span>
+1111111111111111111111111111111111111111
+1111111111111111111111111111111111111111
 </div>
 
