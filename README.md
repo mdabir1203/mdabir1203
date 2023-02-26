@@ -21,7 +21,7 @@
 [Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
 
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
---> TAGS I got from my Friends : "Microwave Chef" "Phoenix"
+- TAGS my Friends : "Microwave Chef" "Phoenix"
  :bangladesh: 🇩🇪
  
 
