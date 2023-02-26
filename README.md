@@ -28,7 +28,7 @@
 
 
  <div style="font-size: 2em">
-  :10E6C :10E61
+  :RUMI_DIGIT_TWO :10E61
 :green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
 :green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
 :green_circle::green_circle::red_circle::red_circle::red_circle::red_circle::red_circle::green_circle::green_circle:<br>
