@@ -5,6 +5,8 @@
    
 ![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203&langs_count=10&layout=compact" width="26.8%">
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={mdabir1203}&theme={zenburn}
  
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Developing and Integrating any new Tech,Software,Hacks 
 - Leading and Initiating Projects to empower others :) 
