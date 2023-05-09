@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.ghAction}}
         with:
-          USERNAME: ${{mdabir1203}}
+          USERNAME: ${{github.mdabir1203}}
