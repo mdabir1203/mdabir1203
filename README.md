@@ -6,10 +6,9 @@
 <img src = "https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off"
 </p>
 
-</p>
-![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 <p align="center">
-
+![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
+</p>
  
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Developing and Integrating any new Tech,Software,Hacks 
 - Leading and Initiating Projects to empower others :) 
