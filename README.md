@@ -2,6 +2,7 @@
   <img src="https://42wolfsburg.de/wp-content/uploads/2022/01/42logo_site-5.svg" height="128px"  >
 </div>
 
+[![mabbas's 42 stats](https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
    
 ![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdabir1203&langs_count=10&layout=compact" width="26.8%">
