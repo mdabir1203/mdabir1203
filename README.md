@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-[![mabbas's 42 stats](https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<img src = "https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off"
 </p>
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
