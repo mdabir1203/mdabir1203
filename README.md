@@ -2,9 +2,12 @@
   <img src="https://42wolfsburg.de/wp-content/uploads/2022/01/42logo_site-5.svg" height="128px"  >
 </div>
 
+
 <p align="center">
   ![image](https://github.com/mdabir1203/mdabir1203/assets/66947064/8f9b38f8-c748-4e50-9f3e-ce808b7a2b22)
-  
+</p>
+
+<p align="center">
   <img src = "https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off"
 </p>
 
