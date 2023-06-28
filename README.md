@@ -7,6 +7,8 @@
 
 </p>
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/8f9b38f8-c748-4e50-9f3e-ce808b7a2b22" alt="Image">
+ ![](https://raw.githubusercontent.com/mdabir1203/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
   
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Developing and Integrating any new Tech,Software,Hacks 
 - Leading and Initiating Projects to empower others :) 
