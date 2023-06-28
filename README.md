@@ -8,7 +8,7 @@
 </p>
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/8f9b38f8-c748-4e50-9f3e-ce808b7a2b22" alt="Image">
 
-  <img src="https://raw.githubusercontent.com/mdabir1203/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="[https://raw.githubusercontent.com/mdabir1203/github-stats/master/generated/overview.svg](https://github.com/mdabir1203/github_stats/blob/master/generated/overview.svg)">
 
 
   
@@ -22,7 +22,7 @@
 - Tech Interests : **Deep Learning and Cybersecurity **
 - 📫 Reach me at with your Remote Job offer / Need any Help with development/Need Solutions: 
 
-[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/abir-abbas
+[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/in/abir-abbas
 
 [Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
 
