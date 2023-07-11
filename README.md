@@ -19,7 +19,7 @@
         
         Spirituality, Music, Movies, Travel Stories
    
-- Tech Interests : **Deep Learning and Cybersecurity **
+- Tech Interests : ** Langchain / LLM / Reverse Engineering / Malware Analysis **
 - 📫 Reach me at with your Remote Job offer / Need any Help with development/Need Solutions: 
 
 [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/in/abir-abbas
