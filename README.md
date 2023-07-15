@@ -2,8 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off" alt="Image">
-  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats">
-</div>
+ </div>
 
 </p>
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/8f9b38f8-c748-4e50-9f3e-ce808b7a2b22" alt="Image">
