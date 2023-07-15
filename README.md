@@ -20,9 +20,9 @@
         Spirituality, Music, Movies, Travel Stories
         Tech Interests : Langchain / LLM / Reverse Engineering
 
-  ![RABBITQR](https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc?width=100&height=100)
+  ![RABBITQR](?width=100&height=100)
 
-
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc)"  width="200" height="200">
 - 📫 Reach me at with your Remote Job offer / Need any Help with development/Need Solutions: 
 
 [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/in/abir-abbas
