@@ -5,7 +5,6 @@
   <img src="https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off" alt="Image">
  </div>
 
-</p>
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/8f9b38f8-c748-4e50-9f3e-ce808b7a2b22" alt="Image">
 
   <img src="[https://raw.githubusercontent.com/mdabir1203/github-stats/master/generated/overview.svg](https://github.com/mdabir1203/github_stats/blob/master/generated/overview.svg)">
