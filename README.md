@@ -32,7 +32,7 @@
 </p>
  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc"  width="20%" height="20%">
 
-- 📫 Reach me at with your Remote Job offer / Need any Help with development/Need Solutions: 
+- 📫 Reach me out to me with your  Job offer / Need any Help with development/Need Solutions: 
 
 [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white): www.linkedin.com/in/abir-abbas
 
