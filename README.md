@@ -15,17 +15,15 @@
  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" > 
 </p>
  
-
-
   
-- :electron: A Mechanical Engineer, A Solution Engineer with Deep Learning/ AI.  Finds Fun in Reversing, Developing and Integrating any new Tech,Software,Hacks 
+- :electron: A Mechanical Engineer turned AI Solution Engineer with Deep Learning/ AI.  Finds Fun in Reversing, Developing and Integrating any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting. 
 - 💬 Ask me about : 
         
         Spirituality, Music, Movies, Travel Stories
         Tech Interests : Langchain / LLM / Reverse Engineering
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
-- TAGS my Friends : "Microwave Chef" "Phoenix"
+- TAGS from Friends : "Microwave Chef" "Phoenix"
 - 📫 Open for AI Development / Effective Solutions you require for your project
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Scan+to+Follow+in+Linkedin+and+Medium" alt="Typing SVG" /></a>
