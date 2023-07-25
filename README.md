@@ -32,7 +32,8 @@
 
 - 📫 Reach me out to me with your  Job offer / Need any Help with development/Need Solutions:
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=288AB6&center=true&width=435&lines=Check+out+my+Linkedin+%2C+Medium+below" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=440&height=59&lines=Scan+to+Follow+in+Linkedin+and+Medium" alt="Typing SVG" /></a>
+
 
 - [ClickMe] (https://www.linkedin.com/in/abir-abbas) :
 - [Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
