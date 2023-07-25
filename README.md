@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://badge.mediaplus.ma/binary/mabbas?1337Badge=off&UM6P=off" alt="Image">
- </div>
-</p>
-
-<p align="center">
   
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/8f9b38f8-c748-4e50-9f3e-ce808b7a2b22" alt="Image">
 
