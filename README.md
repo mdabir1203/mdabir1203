@@ -6,12 +6,11 @@
   
 
   <img src="[https://raw.githubusercontent.com/mdabir1203/github-stats/master/generated/overview.svg](https://github.com/mdabir1203/github_stats/blob/master/generated/overview.svg)">
-  <img width="628" alt="image" src="https://github.com/mdabir1203/mdabir1203/assets/66947064/c073ec6e-76fd-455e-8e78-140facdb8fb5">
-
+  
 </p>
 
 
-
+<img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/c073ec6e-76fd-455e-8e78-140facdb8fb5" width="628" alt="image" >
   
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" > 
