@@ -32,7 +32,8 @@
 
 - 📫 Reach me out to me with your  Job offer / Need any Help with development/Need Solutions:
 
-- ![Linkedin](https://www.linkedin.com/in/abir-abbas "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hover+to+see+Linkedin;https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabir-abbas)](https://git.io/typing-svg)
+
 
 - [Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
 - [Medium] (https://medium.com/@md.abir1203) : @md.abir1203
