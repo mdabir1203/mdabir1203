@@ -14,7 +14,7 @@
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" >
 
- <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc"  width="10%" height="10%">
+ <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc"  width="15%" height="15%">
  
 </p>
  
