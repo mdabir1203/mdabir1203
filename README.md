@@ -6,8 +6,10 @@
   
 
   <img src="[https://raw.githubusercontent.com/mdabir1203/github-stats/master/generated/overview.svg](https://github.com/mdabir1203/github_stats/blob/master/generated/overview.svg)">
+  <img width="628" alt="image" src="https://github.com/mdabir1203/mdabir1203/assets/66947064/c073ec6e-76fd-455e-8e78-140facdb8fb5">
 
 </p>
+
 
 
   
