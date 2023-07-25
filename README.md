@@ -33,11 +33,6 @@
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="33%" /> |  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="33%" />
 
 </p>
- 
-- [ClickMe] (https://www.linkedin.com/in/abir-abbas) :
-- [Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
-- [Medium] (https://medium.com/@md.abir1203) : @md.abir1203
-
 
 
  :bangladesh: 🇩🇪
