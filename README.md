@@ -26,10 +26,6 @@
         Tech Interests : Langchain / LLM / Reverse Engineering
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 - TAGS my Friends : "Microwave Chef" "Phoenix"
- 
- :bangladesh: 🇩🇪
- 
-
 - 📫 Open for AI Development / Effective Solutions you require for your project
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Scan+to+Follow+in+Linkedin+and+Medium" alt="Typing SVG" /></a>
@@ -40,3 +36,7 @@
 - [ClickMe] (https://www.linkedin.com/in/abir-abbas) :
 - [Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): mabbas@students.42wolfsburg.de
 - [Medium] (https://medium.com/@md.abir1203) : @md.abir1203
+
+
+
+ :bangladesh: 🇩🇪
