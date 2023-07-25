@@ -11,6 +11,16 @@
 
 
   
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" >
+
+ <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc"  width="40%" height="40%">
+ 
+</p>
+ 
+
+
+  
 - :electron: A Mechanical Engineer, Finds Fun in Coding, Developing and Integrating any new Tech,Software,Hacks 
 - Leading and Initiating Projects to empower others :) 
 - :goberserk: Knack for figuring out of the box Troubleshooting. 
@@ -18,14 +28,7 @@
         
         Spirituality, Music, Movies, Travel Stories
         Tech Interests : Langchain / LLM / Reverse Engineering
-  
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="20%" height="20%" >
 
- <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/404ceecb-0c81-417e-af2b-39d344b48fdc"  width="20%" height="20%">
- 
-</p>
- 
 
 - 📫 Reach me out to me with your  Job offer / Need any Help with development/Need Solutions: 
 
