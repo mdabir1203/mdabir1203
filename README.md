@@ -34,7 +34,7 @@
 
 <div style="float: left;">
 
-<iframe src='//gifs.com/embed/ruti-bd-k2xArv' frameborder='0' scrolling='no' width='680px' height='474px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+![ruti](https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7)
 
 </div>
 
