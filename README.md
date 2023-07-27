@@ -33,7 +33,7 @@
 </p>
 
 <div style="float: left;">
-  <video src="[https://github.com/mdabir1203/mdabir1203/assets/66947064/60b78f57-1703-4abd-a95e-300db53a1219" width="180" controls></video>
+  <video src="https://github.com/mdabir1203/mdabir1203/assets/66947064/60b78f57-1703-4abd-a95e-300db53a1219" width="180" controls></video>
 </div>
 
 
