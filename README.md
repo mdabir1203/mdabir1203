@@ -33,5 +33,5 @@
 </p>
 
 <p align="left">
-<img src= "https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7" width="55%" />
+<img src= "https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7" width="35%" />
 </p>
