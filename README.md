@@ -31,8 +31,8 @@
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="33%" />
 </p>
 
-<float="right">
-  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="22%" />
+<p float="right">
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="33%" />
 </p>
 
  :bangladesh: 🇩🇪
