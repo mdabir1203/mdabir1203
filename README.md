@@ -34,7 +34,7 @@
 
 <div style="float: left;">
 
-  ![ruti](https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7)
+ <img src= "https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7" width="33%" />
 
 </div>
 
