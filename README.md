@@ -32,6 +32,8 @@
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="25%" />
 </p>
 
+<div style="float: left;">
+  <video src="[https://github.com/mdabir1203/mdabir1203/assets/66947064/60b78f57-1703-4abd-a95e-300db53a1219" width="180" controls></video>
+</div>
 
-https://github.com/mdabir1203/mdabir1203/assets/66947064/60b78f57-1703-4abd-a95e-300db53a1219
 
