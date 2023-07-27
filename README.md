@@ -28,10 +28,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Scan+to+Follow+in+Linkedin+and+Medium" alt="Typing SVG" /></a>
  
 <p float="left">
-  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="33%" />
-</p>
-
-<p float="right">
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="33%" hspace="20" />
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="33%" />
 </p>
 
