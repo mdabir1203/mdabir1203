@@ -34,7 +34,7 @@
 
 <div style="float: left;">
 
-  ![ruti_bd](https://github.com/mdabir1203/mdabir1203/assets/66947064/136fdd0e-ce8c-48df-8977-72c56fe173f1)
+![ruti_bd](https://github.com/mdabir1203/mdabir1203/assets/66947064/38aea811-11dd-4ce8-9862-9c8d5ffe60ba)
 
 </div>
 
