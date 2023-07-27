@@ -32,9 +32,9 @@
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="25%" />
 </p>
 
-<div style="float: left;">
+<div style="float: center;">
 
- <img src= "https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7" width="33%" />
+ <img src= "https://github.com/mdabir1203/mdabir1203/assets/66947064/bdefc66b-bf55-4080-ac15-67ca97df28c7" width="55%" />
 
 </div>
 
