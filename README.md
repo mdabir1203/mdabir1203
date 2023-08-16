@@ -31,7 +31,7 @@
 </p>
 
 
-<p align="left">
-  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="10%" hspace="40" />
-  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="10%" />
+<p align="center">
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="20%" hspace="40" />
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="20%" />
 </p>
