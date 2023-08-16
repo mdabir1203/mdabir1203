@@ -11,7 +11,7 @@
  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" > 
 </p>
  
-  
+ 
 - :electron: A Mechanical Engineer turned AI Solution Engineer with Deep Learning/ AI.  Finds Fun in Reversing, Developing and Integrating any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting. 
 - 💬 Ask me about : 
@@ -31,3 +31,11 @@
 </p>
 
 
+
+
+## This is not a Virus I swear !?! Scan to follow in Linkedin and Medium 
+
+<p align="center">
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/d0d9edc9-b97d-4db9-b43f-098018213736"  width="20%" hspace="40" />
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a03e04e6-06a5-42da-bde5-493185f4e15f" width="20%" />
+</p>
