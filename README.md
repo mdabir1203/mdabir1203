@@ -12,7 +12,7 @@
 </p>
  
  
-- :electron: A Mechanical Engineer turned AI Solution Engineer with Deep Learning/ AI.  Finds Fun in Reversing, Developing and Integrating any new Tech,Software,Hacks 
+- :electron: A Reverse Mechanical Engineer Developing and Integrating any new Tech,Software,Hacks 
 - :goberserk: Knack for figuring out of the box Troubleshooting. 
 - 💬 Ask me about : 
         
