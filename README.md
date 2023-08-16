@@ -22,7 +22,7 @@
 - TAGS from Friends : "Microwave Chef" "Phoenix"
 - 📫 Open for AI Development / Effective Solutions you require for your project
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Check+my+recent+Blog+Post" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Check+my+recent+Blog+Post :bookmark_tabs:" alt="Typing SVG" /></a>
  
 
 <p align="center">
