@@ -33,7 +33,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=ff496c&vCenter=true&multiline=true&width=500&height=100&lines=Not sending you **Phishing links \033[0m ** !_!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=ff496c&vCenter=true&multiline=true&width=500&height=100&lines=Not sending you **Phishing links** !_!" alt="Typing SVG" /></a>
  
 
 <p align="center">
