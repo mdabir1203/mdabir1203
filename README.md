@@ -12,7 +12,7 @@
 </p>
  
  
-- :electron: A Mechanical Engineer Developing and Reversing to integrate any new Tech,Software,Hacks 
+- :electron: A Mechanical Engineer Developing and finding connections in Embedded systems, Software and API 
 - :goberserk: Knack for figuring out of the box Troubleshooting. 
 - 💬 Ask me about : 
         
