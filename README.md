@@ -2,10 +2,6 @@
 <img width="621" alt="image" src="https://github.com/mdabir1203/mdabir1203/assets/66947064/dc33981c-00bf-42e4-a644-06d63ecc16d7">
 
 
-  
-  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/c073ec6e-76fd-455e-8e78-140facdb8fb5" width="628" alt="image" >
-</p>![s](https://github.com/mdabir1203/mdabir1203/assets/66947064/2c584b0c-95b0-45ec-bd09-c198b48a4104)
-
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" > 
