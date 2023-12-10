@@ -10,7 +10,7 @@
 
 🧰 Ever-continuous learning and application of innovative troubleshooting and out-of-the-box solution finding.💬 Let's talk about **Spirituality**, **Music**, **Movies**, **Travel Stories**, and
 
-**Tech Interests** like Langchain, Large Language Models (LLM), and Embedded Systems like Raspbery and ESP.
+**Tech Interests** like Langchain, Large Language Models (LLM), and Embedded Systems like Raspbery Pi and ESP.
 
 ⚡ **Fun fact**: I can play the Harmonica while riding a bike!
 
