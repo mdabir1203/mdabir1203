@@ -7,8 +7,10 @@
 </div>
 
 🛠️ **Mechanical Engineer** with expertise in **Embedded Systems**, **Software**, and **API development**.
-🧰 Skilled in innovative troubleshooting and out-of-the-box solution finding.
-💬 Let's talk about **Spirituality**, **Music**, **Movies**, **Travel Stories**, and **Tech Interests** like Langchain, Large Language Models (LLM), and Embedded Systems.
+
+🧰 Ever-continuous learning and application of innovative troubleshooting and out-of-the-box solution finding.
+💬 Let's talk about **Spirituality**, **Music**, **Movies**, **Travel Stories**, and
+**Tech Interests** like Langchain, Large Language Models (LLM), and Embedded Systems like Raspbery and ESP.
 ⚡ **Fun fact**: I can play the Harmonica while riding a bike!
 🏷️ My friends refer to me as the "Microwave Chef" and "Phoenix."
 📫 I'm open for collaboration on **AI-Powered Software Development** and providing **effective solutions** for your project needs.
