@@ -25,8 +25,3 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" alt="Recent Article 1"> 
 </p>
-
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=ff496c&vCenter=true&multiline=true&width=500&height=100&lines=Scan For AI Club** !_!" alt="Typing SVG" /></a>
