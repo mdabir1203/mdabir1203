@@ -1,27 +1,24 @@
-<p align="center">
-<img width="621" alt="image" src="https://github.com/mdabir1203/mdabir1203/assets/66947064/dc33981c-00bf-42e4-a644-06d63ecc16d7">
+<div align="center">
+  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/dc33981c-00bf-42e4-a644-06d63ecc16d7" alt="Banner Image" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" />
+</div>
 
+🛠️ **Mechanical Engineer** with expertise in **Embedded Systems**, **Software**, and **API development**.
+🧰 Skilled in innovative troubleshooting and out-of-the-box solution finding.
+💬 Let's talk about **Spirituality**, **Music**, **Movies**, **Travel Stories**, and **Tech Interests** like Langchain, Large Language Models (LLM), and Embedded Systems.
+⚡ **Fun fact**: I can play the Harmonica while riding a bike!
+🏷️ My friends refer to me as the "Microwave Chef" and "Phoenix."
+📫 I'm open for collaboration on **AI-Powered Software Development** and providing **effective solutions** for your project needs.
 
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" > 
-</p>
- 
- 
-- :electron: A Mechanical Engineer Developing and finding connections in Embedded systems, Software and API 
-- :goberserk: Knack for figuring out of the box Troubleshooting. 
-- 💬 Ask me about : 
-        
-        Spirituality, Music, Movies, Travel Stories
-        Tech Interests : Langchain / LLM / Embedded 
-- ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
-- TAGS from Friends : "Microwave Chef" "Phoenix"
-- 📫 Open for AI Powered Software Development / Effective Solutions you require for your project
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Check+my+recent+Blog+Post" alt="Typing SVG" /></a>
  
 
-<p align="center">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" alt="Recent Article 1"> 
-</p>
+<div align="center">
+  <a href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" target="_blank">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" alt="Recent Article 1" />
+  </a>
+</div>
