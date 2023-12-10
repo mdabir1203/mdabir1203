@@ -13,7 +13,7 @@
 - 💬 Ask me about : 
         
         Spirituality, Music, Movies, Travel Stories
-        Tech Interests : Langchain / LLM / Reverse Engineering / Embedded 
+        Tech Interests : Langchain / LLM / Embedded 
 - ⚡ Fun fact: I can play Harmonica while riding a Bike !!  
 - TAGS from Friends : "Microwave Chef" "Phoenix"
 - 📫 Open for AI Powered Software Development / Effective Solutions you require for your project
