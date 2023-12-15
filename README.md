@@ -16,7 +16,7 @@
 
 🏷️ My friends refer to me as the "Microwave Chef" and "Phoenix."
 
-📫 I'm open for collaboration on **AI-Powered Software Development** and providing **effective solutions** for your project needs.
+📫 I'm open for team collaboration on **AI-Powered Software Development** and providing **effective solutions** for your project needs.
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=35&duration=5030&pause=1000&color=288AB6&vCenter=true&multiline=true&width=500&height=100&lines=Check+my+recent+Blog+Post" alt="Typing SVG" /></a>
@@ -27,3 +27,5 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" alt="Recent Article 1" />
   </a>
 </div>
+
+![image](https://github.com/mdabir1203/mdabir1203/assets/66947064/a99b4c89-a455-4455-bb59-28162f2e238e)
