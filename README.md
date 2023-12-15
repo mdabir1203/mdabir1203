@@ -34,6 +34,4 @@
 
 
 
-
-
-![image](https://github.com/mdabir1203/mdabir1203/assets/66947064/a99b4c89-a455-4455-bb59-28162f2e238e){:height="100px" width="100px"}
+<img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/a99b4c89-a455-4455-bb59-28162f2e238e" width="100" height="100">
