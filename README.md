@@ -8,7 +8,7 @@
 
 🛠️ **Mechanical Engineer** with expertise in **Embedded Systems**, **Software**, and **API development**.
 
-🧰 Ever-continuous learning and application of innovative troubleshooting and out-of-the-box solution finding.💬 Let's talk about **Spirituality**, **Music**, **Movies**, **Travel Stories**, and
+🧰 Ever-continuous learning and application of innovative troubleshooting and out-of-the-box solution finding.💬 Let's talk about **Spirituality**, **Music**, **Movies**, **Travel Stories**, and a Super Social Person
 
 ⚡⚡ **Tech Interests** like Langchain, Large Language Models (LLM), and Embedded Systems like Raspbery Pi and ESP.
 
@@ -27,10 +27,6 @@
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" alt="Recent Article 1" />
   </a>
 </div>
-
-
-
-
 
 
 <div align="center">
