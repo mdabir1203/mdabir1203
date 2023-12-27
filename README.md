@@ -12,7 +12,7 @@
 ⚡ Fun Fact: Harmonica player on bike rides. 
 
 <div align="center">
-  <a href="  https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" target="_blank">
+  <a href="  ![My Medium Articles](https://your-vercel-app-url.vercel.app/)" target="_blank">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/1" alt="Recent Article 1" width="300" height="300" />
   </a>
 </div>
