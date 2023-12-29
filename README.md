@@ -7,8 +7,11 @@
 🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer
 
 💻 Passionate about API Development and Embedded Technologies.
+
 🌱 Exploring Langchain, LLMs, Raspberry Pi, and ESP.
+
 🚀 Open to collaborations in AI-Powered Software and Tech Innovations.
+
 ⚡ Fun Fact: Harmonica player on bike rides. 
 
 <div align="center">
