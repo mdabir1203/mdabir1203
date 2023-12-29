@@ -6,6 +6,7 @@
 </div>
 🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer
 
+
 💻 Passionate about API Development and Embedded Technologies.
 
 🌱 Exploring Langchain, LLMs, Raspberry Pi, and ESP.
