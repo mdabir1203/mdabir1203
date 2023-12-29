@@ -5,12 +5,10 @@
   <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" />
 </div>
 
-🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer.
-
-💻 Passionate about API Development and Embedded Technologies.
-
-🌱 Exploring Langchain, LLMs, Raspberry Pi, and ESP.
-
-🚀 Open to collaborations in AI-Powered Software and Tech Innovations.
-
+<p style="text-align: center;">
+🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer.<br>
+💻 Passionate about API Development and Embedded Technologies.<br>
+🌱 Exploring Langchain, LLMs, Raspberry Pi, and ESP.<br>
+🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
 ⚡ Fun Fact: Harmonica player on bike rides. 
+</p>
