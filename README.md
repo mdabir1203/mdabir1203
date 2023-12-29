@@ -4,8 +4,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" />
 </div>
-🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer
 
+🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer.
 
 💻 Passionate about API Development and Embedded Technologies.
 
