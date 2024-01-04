@@ -7,7 +7,7 @@
 
 <p style="text-align: center;">
 🛠️ Mechanical Engineer | Embedded Systems & Software Enthusiast | AI Developer.<br>
-💻 Passionate about API Development and Embedded Technologies.<br>
+💻 Creative problem solving with Gen AI, API Development and Embedded Technologies.<br>
 🌱 Exploring Langchain, LLMs, Raspberry Pi, and ESP.<br>
 🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
 ⚡ Fun Fact: Harmonica player on bike rides. 
