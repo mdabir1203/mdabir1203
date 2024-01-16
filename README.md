@@ -26,5 +26,5 @@
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
 
 <a href="https://www.patreon.com/bePatron?u=98220761">
-    <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/4ae63af1-7e2f-45d6-a8cd-5cf8689e6c11" height="150" width="300" alt="Become a member on Patreon">
+    <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/4ae63af1-7e2f-45d6-a8cd-5cf8689e6c11" height="150" width="150" alt="Become a member on Patreon">
 </a>
