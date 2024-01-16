@@ -2,6 +2,10 @@
   <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/dc33981c-00bf-42e4-a644-06d63ecc16d7" alt="Banner Image" />
   
 </div>
+
+https://github.com/mdabir1203/mdabir1203/assets/66947064/b96b5a96-dbe7-4aa8-ac29-d28e06e8bbb6
+
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" />
 </div>
@@ -16,8 +20,10 @@
 
 👀 Check my Contents :
 
-![UknowWho's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=mdabir1203&theme=dracula)
 
+
+
+https://github.com/mdabir1203/mdabir1203/assets/66947064/880c95ed-9027-4cb7-960f-d4e4b4a0a9c3
 
 
 
