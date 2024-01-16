@@ -17,7 +17,7 @@
 👀 Check my Contents : 
 
 
-[![UknowWho Medium](https://github-readme-medium.vercel.app/?username=md.abir1203&limit=3)](https://medium.com/@md.abir1203)
+[![[UknowWho Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://github-readme-medium.vercel.app/?username=md.abir1203&limit=3)](https://medium.com/@md.abir1203)
 
 
 <h3 align="left">Support:</h3>
