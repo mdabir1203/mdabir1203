@@ -23,9 +23,9 @@
 
 <div align="center">
   <figure>
-    <video src="https://github.com/mdabir1203/mdabir1203/assets/your_video_file.mp4" controls alt="Are you CringeWorthy ?">
+    <img src="https://github.com/mdabir1203/mdabir1203/assets/your_video_file.mp4" controls alt="Are you CringeWorthy ?">
       Your browser does not support the video tag.
-    </video>
+    </img>
     <figcaption>**Are you CringeWorthy?**</figcaption>
   </figure>
 </div>
