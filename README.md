@@ -24,6 +24,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" 
+
 <p><a href="https://www.patreon.com/uknowWhoAb1r" data-patreon-widget-type="become-patron-button">Check my patreon Creations!</a></p>
 <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
                                                       
