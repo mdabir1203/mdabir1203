@@ -1,0 +1,22 @@
+name: Update README with latest blog posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch Blog Posts
+        run: |
+          # Custom script or GitHub Action to fetch and format posts
+          python update_readme.py
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'Mohammad Abir Abbas'
+          git config --global user.email 'md.abir1203@gmail.com'
+          git add README.md
+          git commit -m "Updated README with latest blog posts"
+          git push
