@@ -1,6 +1,3 @@
-https://github.com/mdabir1203/mdabir1203/assets/66947064/b96b5a96-dbe7-4aa8-ac29-d28e06e8bbb6
-
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" />
 </div>
@@ -22,7 +19,7 @@ https://github.com/mdabir1203/mdabir1203/assets/66947064/b96b5a96-dbe7-4aa8-ac29
     <video src="https://github.com/mdabir1203/mdabir1203/assets/your_video_file.mp4" controls alt="Are you CringeWorthy ?">
       Your browser does not support the video tag.
     </video>
-    <figcaption>Are you CringeWorthy?</figcaption>
+    <figcaption>**Are you CringeWorthy?**</figcaption>
   </figure>
 </div>
 
