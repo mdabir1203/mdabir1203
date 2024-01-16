@@ -25,4 +25,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
 
-<a href="https://www.patreon.com/bePatron?u=98220761" Become a member!>
+<a href="https://www.patreon.com/bePatron?u=98220761">Become a member!</a>
+
