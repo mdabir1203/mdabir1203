@@ -16,11 +16,7 @@
 
 👀 Check my Contents :
 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/0" alt="Recent Article 0"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@md.abir1203/2" alt="Recent Article 2"> 
-
+![UknowWho's Medium Post](https://github-readme-medium-card.vercel.app/getMediumBlogs?username=mdabir1203&theme=dracula)
 
 
 
