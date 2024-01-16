@@ -27,5 +27,4 @@
 
 /></a></p><br><br>
 
-<a href="https://www.patreon.com/uknowWhoAb1r" data-patreon-widget-type="become-patron-button">Check my patreon Creations! <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>                                                      
 <a href="https://www.patreon.com/bePatron?u=98220761" data-patreon-widget-type="become-patron-button">Become a member!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
