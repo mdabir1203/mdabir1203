@@ -23,5 +23,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" 
+
+<a href="https://www.patreon.com/bePatron?u=98220761" data-patreon-widget-type="become-patron-button">Check my patreon Creations!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>0" 
+
+                                                      
+/></a></p><br><br>
 
