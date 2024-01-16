@@ -1,12 +1,11 @@
 <div align="center">
   <figure>
-    <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/dc33981c-00bf-42e4-a644-06d63ecc16d7" alt="Are you CringeWorthy ?" />
+    <video src="https://github.com/mdabir1203/mdabir1203/assets/your_video_file.mp4" controls alt="Are you CringeWorthy ?">
+      Your browser does not support the video tag.
+    </video>
     <figcaption>Are you CringeWorthy?</figcaption>
   </figure>
 </div>
-  
-</div>
-
 https://github.com/mdabir1203/mdabir1203/assets/66947064/b96b5a96-dbe7-4aa8-ac29-d28e06e8bbb6
 
 
