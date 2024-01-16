@@ -19,7 +19,7 @@
 
 
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`mdabir1203`"/>
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=md.abir1203)](https://medium.com/@md.abir1203)
 
 
 
