@@ -13,8 +13,10 @@
 ⚡ Fun Fact: Harmonica player on bike rides. 
 </p>
 
-[![UknowWho Medium](https://github-readme-medium.vercel.app/?username=md.abir1203)](https://medium.com/@md.abir1203)
 
+<h3 align="left">Support:</h3>
+[![UknowWho Medium](https://github-readme-medium.vercel.app/?username=md.abir1203)](https://medium.com/@md.abir1203)
+/></a></p><br><br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
