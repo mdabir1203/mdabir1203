@@ -30,11 +30,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Project Showcase(Recent)
+[Screencast from 20.01.2024 23:03:20.webm](https://github.com/mdabir1203/mdabir1203/assets/66947064/12bd497f-04b6-4f08-bd2f-745f30327a3b)
 
-- [CHAT-I-NETTE : An AI Peer Assistant << Status: Dependency issue >>](https://github.com/BlorangeXYZ/Chat-i-nette) 
-- [Cultural Compass : A CustomGPT for empowering Expat Experience](https://github.com/mdabir1203/CulturalCompassGPT)
-- [Current : Linkedin Carousel Generator](https://github.com/mdabir1203/SystemDesignPractices)
-- [Soldering Iron Classification with low code ML Platform](https://docs.google.com/presentation/d/1tc4uKS-u-lz5lBzKuaNkiG6QZ5Em9D02zlvC8L2Or_k/edit#slide=id.g2414270c6c8_0_36)
 
 ## 👀 Check my Contents :
 
