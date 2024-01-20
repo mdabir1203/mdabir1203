@@ -15,10 +15,7 @@
 </p>
 
 
-<a href="#" class="btn btn-primary btn-lg" role="button">
-  <img src="logo.png" alt="Logo" width="40" height="40">
-  <span class="placeholder col-6">Check the recent Stories below</span>
-</a>
+<iframe src=“graphic_art(prompt=‘A button logo with words 'Check the recent Stories below', typography’)” width=“300” height=“100”></iframe>
 
 <!-- BLOG-POST-LIST:START -->
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
