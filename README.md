@@ -8,11 +8,14 @@
 </div>
 
 <p style="text-align: center;">
+
+<div align="center">
 💻 Creative problem solving with Gen AI, API Development and Embedded Technologies.<br>
 🌱 Exploring Langchain, LLMs, Raspberry Pi, and ESP.<br>
 🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
 ⚡ Fun Fact: Harmonica player on bike rides. 
 </p>
+</div>
 
 
 
