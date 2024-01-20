@@ -16,7 +16,8 @@
 
 
 
-<div style="animation: blinker 1s linear infinite; color: red;">Blog Post</div>
+<div style="animation: blinker 1s linear infinite; color: red;">Don't forget to check out my other blog posts!</div>
+
 <style>
 @keyframes blinker {  
   50% { opacity: 0; }
