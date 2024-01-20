@@ -15,7 +15,7 @@
 </p>
 
 
-<img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/4bfe8a88-2acb-4a31-bb7b-7456ad4f55b3" alt="Designer" width="100" height="100"/>
+<img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/4bfe8a88-2acb-4a31-bb7b-7456ad4f55b3" alt="Designer" width="200" height="200"/>
 
 
 
