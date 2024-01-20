@@ -16,13 +16,13 @@
 
 
 
-<div style="animation: blinker 1s linear infinite; color: red;">Don't forget to check out my other blog posts!</div>
-
-<style>
-@keyframes blinker {  
-  50% { opacity: 0; }
-}
-</style>
+<a-plane
+ rotation="-90 0 0"
+ width="0.2"
+ height="0.2"
+ src="./arrow.png"
+ material="transparent:true;"
+></a-plane>
 
 <!-- BLOG-POST-LIST:START -->
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
