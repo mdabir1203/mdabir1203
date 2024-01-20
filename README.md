@@ -15,10 +15,8 @@
 </p>
 
 
-<img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/7bb3fc62-a86d-4bb6-b63f-e06a4cb7f40e" alt="Designer" width="200" height="200"/>
 
-
-
+## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
