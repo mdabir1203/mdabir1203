@@ -15,7 +15,9 @@
 </p>
 
 
-<iframe src=“graphic_art(prompt=‘A button logo with words 'Check the recent Stories below', typography’)” width=“300” height=“100”></iframe>
+![Designer](https://github.com/mdabir1203/mdabir1203/assets/66947064/4bfe8a88-2acb-4a31-bb7b-7456ad4f55b3)
+
+
 
 <!-- BLOG-POST-LIST:START -->
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
