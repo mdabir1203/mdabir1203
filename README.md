@@ -16,7 +16,13 @@
 
 
 
-# Blog posts
+<div style="animation: blinker 1s linear infinite; color: red;">Blog Post</div>
+
+<style>
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+</style>
 <!-- BLOG-POST-LIST:START -->
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
 - [LLM: Your Coding Tradeoff Analyzer](https://medium.com/@md.abir1203/llm-your-coding-tradeoff-analyzer-6293a136544a?source=rss-b62bf3bb75c7------2)
