@@ -15,22 +15,10 @@
 </p>
 
 
-
-<div align="center">
-<a-entity id="hoop" rotation="90 0 0" position="0 2 -1.8"> 
-    <a-torus scale="0.6 0.6 0.6" position="0 0.173 -0.1" color="#43A367" radius="0.25" radius-tubular="0.005"></a-torus>
-    <a-plane
-     scale="0.6 0.6 0.6"
-     position="0 0 -0.3"
-     rotation="-90 0 0"
-     width="0.9"
-     height="0.9"
-     material="transparent: true; side: double;"
-     src="./backboard.png"
-    ></a-plane>
-    <a-cone scale="0.6 0.6 0.6" position="0 0.173 -0.010" color="tomato" radius-bottom="0.25" radius-top="0.3" material="side: double; opacity:0.5; transparent: true;" geometry="height: 0.29; openEnded: true" rotation="90 0 0"></a-cone>
-</a-entity>
-</div>
+<a href="#" class="btn btn-primary btn-lg" role="button">
+  <img src="logo.png" alt="Logo" width="40" height="40">
+  <span class="placeholder col-6">Check the recent Stories below</span>
+</a>
 
 <!-- BLOG-POST-LIST:START -->
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
