@@ -3,8 +3,6 @@
   
 </div>
 
-
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mdabir1203&theme=monokai-metallian&hide_border=true&border_radius=3&locale=de&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Stats" width="40%" height="40%" />
 </div>
@@ -15,6 +13,17 @@
 🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
 ⚡ Fun Fact: Harmonica player on bike rides. 
 </p>
+
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
+- [LLM: Your Coding Tradeoff Analyzer](https://medium.com/@md.abir1203/llm-your-coding-tradeoff-analyzer-6293a136544a?source=rss-b62bf3bb75c7------2)
+- [Simplifying Web Security: Understanding SanitizeInput](https://medium.com/@md.abir1203/simplifying-web-security-understanding-sanitizeinput-22aa54eeb2c6?source=rss-b62bf3bb75c7------2)
+- [LLM : Your Automated Project Manager](https://medium.com/@md.abir1203/llm-your-automated-project-manager-89b43b6588a3?source=rss-b62bf3bb75c7------2)
+- [Understanding TXT Records and Domain Verification in Simple Terms](https://medium.com/@md.abir1203/understanding-txt-records-and-domain-verification-in-simple-terms-a34c88d28b1f?source=rss-b62bf3bb75c7------2)
+<!-- BLOG-POST-LIST:END -->
 
 
 👀 Check my Contents :
@@ -30,15 +39,6 @@
 </div>
 
 
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
-- [LLM: Your Coding Tradeoff Analyzer](https://medium.com/@md.abir1203/llm-your-coding-tradeoff-analyzer-6293a136544a?source=rss-b62bf3bb75c7------2)
-- [Simplifying Web Security: Understanding SanitizeInput](https://medium.com/@md.abir1203/simplifying-web-security-understanding-sanitizeinput-22aa54eeb2c6?source=rss-b62bf3bb75c7------2)
-- [LLM : Your Automated Project Manager](https://medium.com/@md.abir1203/llm-your-automated-project-manager-89b43b6588a3?source=rss-b62bf3bb75c7------2)
-- [Understanding TXT Records and Domain Verification in Simple Terms](https://medium.com/@md.abir1203/understanding-txt-records-and-domain-verification-in-simple-terms-a34c88d28b1f?source=rss-b62bf3bb75c7------2)
-<!-- BLOG-POST-LIST:END -->
 
 
 **<h3 align="left">Support:</h3>**
