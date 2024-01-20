@@ -29,10 +29,12 @@
 - [Understanding TXT Records and Domain Verification in Simple Terms](https://medium.com/@md.abir1203/understanding-txt-records-and-domain-verification-in-simple-terms-a34c88d28b1f?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Project Showcase
+## Project Showcase(Recent)
 
-
-
+-[https://github.com/BlorangeXYZ/Chat-i-nette)(CHAT-I-NETTE : An AI Peer Assistant << Status: Dependency issue >>) 
+-[https://github.com/mdabir1203/CulturalCompassGPT](Cultural Compass : A CustomGPT for empowering Expat Experience)
+-[https://github.com/mdabir1203/SystemDesignPractices](Current : Linkedin Carousel Generator)
+-[https://docs.google.com/presentation/d/1tc4uKS-u-lz5lBzKuaNkiG6QZ5Em9D02zlvC8L2Or_k/edit#slide=id.g2414270c6c8_0_36](Soldering Iron Classification with low code ML Platform)
 
 ## 👀 Check my Contents :
 
