@@ -33,6 +33,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
+- [LLM: Your Coding Tradeoff Analyzer](https://medium.com/@md.abir1203/llm-your-coding-tradeoff-analyzer-6293a136544a?source=rss-b62bf3bb75c7------2)
+- [Simplifying Web Security: Understanding SanitizeInput](https://medium.com/@md.abir1203/simplifying-web-security-understanding-sanitizeinput-22aa54eeb2c6?source=rss-b62bf3bb75c7------2)
+- [LLM : Your Automated Project Manager](https://medium.com/@md.abir1203/llm-your-automated-project-manager-89b43b6588a3?source=rss-b62bf3bb75c7------2)
+- [Understanding TXT Records and Domain Verification in Simple Terms](https://medium.com/@md.abir1203/understanding-txt-records-and-domain-verification-in-simple-terms-a34c88d28b1f?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
