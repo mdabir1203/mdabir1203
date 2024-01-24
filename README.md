@@ -53,5 +53,5 @@
 **<h3 align="left">Support:</h3>**
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://abir4.gumroad.com/l/dbnrjo">Loading...</a></div>
+
+<a href="https://abir4.gumroad.com/l/dbnrjo">Loading...</a>
