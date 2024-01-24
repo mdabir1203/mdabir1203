@@ -44,6 +44,9 @@
     <video src="https://github.com/mdabir1203/mdabir1203/assets/66947064/0d8e4dda-c4e2-48d7-b74f-ffedb2a30377" controls alt="Are you CringeWorthy?">
     </video>
     <figcaption>4r3 y0u Cr1n63W0r7hy?</figcaption>
+  <a href="https://abir4.gumroad.com/l/dbnrjo" target="_blank">
+  <img src="https://buymyproduct.png" alt="Buy Here">
+</a>
 </details>
 </div>
 
@@ -54,6 +57,4 @@
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
 
 
-[<a href="https://abir4.gumroad.com/l/dbnrjo" target="_blank">
-  <img src="https://buymyproduct.png" alt="Buy my product">
-</a>](https://abir4.gumroad.com/subscribe)
+
