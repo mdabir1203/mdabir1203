@@ -54,6 +54,6 @@
 <p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
 
 
-<a href="https://abir4.gumroad.com/l/dbnrjo" target="_blank">
+[<a href="https://abir4.gumroad.com/l/dbnrjo" target="_blank">
   <img src="https://buymyproduct.png" alt="Buy my product">
-</a>
+</a>](https://abir4.gumroad.com/subscribe)
