@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Perplexity : Your Educative Code Assistant](https://medium.com/@md.abir1203/perplexity-your-educative-code-assistant-b338324dcdf2?source=rss-b62bf3bb75c7------2)
 - [LLM : Your Enhanced Code Reviewer](https://medium.com/@md.abir1203/llm-your-enhanced-code-reviewer-ae010d2cef4c?source=rss-b62bf3bb75c7------2)
 - [Transformative Logic Crafting: Unveiling the magic of GitHub Copilot](https://medium.com/@md.abir1203/transformative-logic-crafting-unveiling-the-magic-of-github-copilot-bb821dc8be89?source=rss-b62bf3bb75c7------2)
 - [Copilot : Your Doxygen Helper / Code Documentation Streamliner](https://medium.com/@md.abir1203/copilot-your-doxygen-helper-code-documentation-streamliner-5eaa15543278?source=rss-b62bf3bb75c7------2)
 - [GenAI / LLM: Turning a Chaotic Mind to Organized Powerhouse](https://medium.com/@md.abir1203/genai-llm-turning-a-chaotic-mind-to-organized-powerhouse-0b535f38d8eb?source=rss-b62bf3bb75c7------2)
-- [LLM: Your Coding Tradeoff Analyzer](https://medium.com/@md.abir1203/llm-your-coding-tradeoff-analyzer-6293a136544a?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Project Showcase(Recent)
