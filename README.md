@@ -22,7 +22,7 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT4/Bard UseCase: Reverse engineer an Image](https://medium.com/@md.abir1203/gpt4-bard-usecase-reverse-engineer-an-image-0fc0e4240a14?source=rss-b62bf3bb75c7------2)
+- [How to Describe your Code Structure Images through GPT4/ Bard](https://medium.com/@md.abir1203/gpt4-bard-usecase-reverse-engineer-an-image-0fc0e4240a14?source=rss-b62bf3bb75c7------2)
 - [42 WOB AI CLUB : RAG : Retrieval Augmented Generation](https://medium.com/@md.abir1203/42-wob-ai-club-rag-retrieval-augmented-generation-06d1a044817f?source=rss-b62bf3bb75c7------2)
 - [Perplexity : Your Educative Code Assistant](https://medium.com/@md.abir1203/perplexity-your-educative-code-assistant-b338324dcdf2?source=rss-b62bf3bb75c7------2)
 - [LLM : Your Enhanced Code Reviewer](https://medium.com/@md.abir1203/llm-your-enhanced-code-reviewer-ae010d2cef4c?source=rss-b62bf3bb75c7------2)
