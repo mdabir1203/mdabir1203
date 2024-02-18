@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Reverse Engineering LLM :Questioning and Understanding Codebase](https://medium.com/@md.abir1203/reverse-engineering-llm-questioning-and-understanding-codebase-a54b343cff72?source=rss-b62bf3bb75c7------2)
 - [Prompting Hacks with Copilot / Dall-e-3 / Ideogram](https://medium.com/@md.abir1203/prompting-hacks-with-copilot-dall-e-3-ideogram-71b20b395d34?source=rss-b62bf3bb75c7------2)
 - [Gen AI Sheniagans : Prompt Engineering with Principles](https://medium.com/@md.abir1203/gen-ai-sheniagans-prompt-engineering-with-principles-10c6fa097d97?source=rss-b62bf3bb75c7------2)
 - [Guide to Visualizing Code Structure with GPT-4 and Bard](https://medium.com/@md.abir1203/gpt4-bard-usecase-reverse-engineer-an-image-0fc0e4240a14?source=rss-b62bf3bb75c7------2)
 - [42 WOB AI CLUB : RAG : Retrieval Augmented Generation](https://medium.com/@md.abir1203/42-wob-ai-club-rag-retrieval-augmented-generation-06d1a044817f?source=rss-b62bf3bb75c7------2)
-- [Perplexity : Your Educative Code Assistant](https://medium.com/@md.abir1203/perplexity-your-educative-code-assistant-b338324dcdf2?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Project Showcase(Recent)
