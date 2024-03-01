@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your Custom GPT : Fundamentals](https://medium.com/@md.abir1203/building-your-custom-gpt-74fd362fe863?source=rss-b62bf3bb75c7------2)
 - [Understanding Dark Patterns: Protecting Yourself from Deceptive Design Tactics](https://medium.com/@md.abir1203/understanding-dark-patterns-protecting-yourself-from-deceptive-design-tactics-4825d9c712f2?source=rss-b62bf3bb75c7------2)
 - [Resume Metadata : bypass ATS](https://medium.com/@md.abir1203/resume-metadata-bypass-ats-c82b96284cdc?source=rss-b62bf3bb75c7------2)
 - [Asking the Right Questions ? : LLM Prompting](https://medium.com/@md.abir1203/asking-the-right-questions-llm-prompting-01e7d52cfb9d?source=rss-b62bf3bb75c7------2)
 - [Reverse Engineering LLM :Questioning and Understanding Codebase](https://medium.com/@md.abir1203/reverse-engineering-llm-questioning-and-understanding-codebase-a54b343cff72?source=rss-b62bf3bb75c7------2)
-- [Prompting Hacks with Copilot / Dall-e-3 / Ideogram](https://medium.com/@md.abir1203/prompting-hacks-with-copilot-dall-e-3-ideogram-71b20b395d34?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Project Showcase(Recent)
