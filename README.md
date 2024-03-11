@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Complex Processes: Visualizing through State Machine and XState](https://medium.com/@md.abir1203/simplifying-complex-processes-visualizing-through-state-machine-and-xstate-ab65f35cca96?source=rss-b62bf3bb75c7------2)
 - [Perspectives or Rant !?!](https://medium.com/@md.abir1203/perspectives-or-rant-54c15a49a790?source=rss-b62bf3bb75c7------2)
 - [Building Your Custom GPT : Fundamentals](https://medium.com/@md.abir1203/building-your-custom-gpt-74fd362fe863?source=rss-b62bf3bb75c7------2)
 - [Understanding Dark Patterns: Protecting Yourself from Deceptive Design Tactics](https://medium.com/@md.abir1203/understanding-dark-patterns-protecting-yourself-from-deceptive-design-tactics-4825d9c712f2?source=rss-b62bf3bb75c7------2)
 - [Resume Metadata : bypass ATS](https://medium.com/@md.abir1203/resume-metadata-bypass-ats-c82b96284cdc?source=rss-b62bf3bb75c7------2)
-- [Asking the Right Questions ? : LLM Prompting](https://medium.com/@md.abir1203/asking-the-right-questions-llm-prompting-01e7d52cfb9d?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Project Showcase(Recent)
