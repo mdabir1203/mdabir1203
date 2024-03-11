@@ -26,11 +26,6 @@
 - [Resume Metadata : bypass ATS](https://medium.com/@md.abir1203/resume-metadata-bypass-ats-c82b96284cdc?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Project Showcase(Recent)
-![Check this Out](https://github.com/mdabir1203/mdabir1203/assets/66947064/7a135765-a260-4183-8039-7879b0986a67)
-
-
-
 
 ## 👀 Check my Contents :
 
