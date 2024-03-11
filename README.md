@@ -19,7 +19,7 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Complex Processes: Visualizing through State Machine and XState](https://medium.com/@md.abir1203/simplifying-complex-processes-visualizing-through-state-machine-and-xstate-ab65f35cca96?source=rss-b62bf3bb75c7------2)
+- [Understanding Process Woes? State Machines and XState to the Rescue!](https://medium.com/@md.abir1203/simplifying-complex-processes-visualizing-through-state-machine-and-xstate-ab65f35cca96?source=rss-b62bf3bb75c7------2)
 - [Perspectives or Rant !?!](https://medium.com/@md.abir1203/perspectives-or-rant-54c15a49a790?source=rss-b62bf3bb75c7------2)
 - [Building Your Custom GPT : Fundamentals](https://medium.com/@md.abir1203/building-your-custom-gpt-74fd362fe863?source=rss-b62bf3bb75c7------2)
 - [Understanding Dark Patterns: Protecting Yourself from Deceptive Design Tactics](https://medium.com/@md.abir1203/understanding-dark-patterns-protecting-yourself-from-deceptive-design-tactics-4825d9c712f2?source=rss-b62bf3bb75c7------2)
