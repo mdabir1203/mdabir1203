@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Bytecode: The Bridge Between Code and Machine](https://medium.com/@md.abir1203/bytecode-the-bridge-between-code-and-machine-beeffb9ba91c?source=rss-b62bf3bb75c7------2)
 - [Copilot a HTML CHEATSHEET through LLM](https://medium.com/@md.abir1203/copilot-a-html-cheatsheet-through-llm-c6ba8d0604e7?source=rss-b62bf3bb75c7------2)
 - [Understanding Process Woes? State Machines and XState to the Rescue!](https://medium.com/@md.abir1203/simplifying-complex-processes-visualizing-through-state-machine-and-xstate-ab65f35cca96?source=rss-b62bf3bb75c7------2)
 - [Perspectives or Rant !?!](https://medium.com/@md.abir1203/perspectives-or-rant-54c15a49a790?source=rss-b62bf3bb75c7------2)
 - [Building Your Custom GPT : Fundamentals](https://medium.com/@md.abir1203/building-your-custom-gpt-74fd362fe863?source=rss-b62bf3bb75c7------2)
-- [Understanding Dark Patterns: Protecting Yourself from Deceptive Design Tactics](https://medium.com/@md.abir1203/understanding-dark-patterns-protecting-yourself-from-deceptive-design-tactics-4825d9c712f2?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
