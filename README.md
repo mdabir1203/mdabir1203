@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Julia Set Visualization with ncurses](https://medium.com/@md.abir1203/interactive-julia-set-visualization-with-ncurses-37dbafbb22e5?source=rss-b62bf3bb75c7------2)
 - [Understanding Error Messages through LLM](https://medium.com/@md.abir1203/understanding-error-messages-through-llm-1fbe1c0f4d92?source=rss-b62bf3bb75c7------2)
 - [LLM : Your Security Auditor](https://medium.com/@md.abir1203/llm-your-security-auditor-1771bb4382fa?source=rss-b62bf3bb75c7------2)
 - [Microsoft 365 Copilot and DALL-E 3: A Fusion of Nostalgia and Innovation](https://medium.com/@md.abir1203/combining-nostalgia-and-technology-with-dall-e-3-e49a074e1c0d?source=rss-b62bf3bb75c7------2)
 - [LLM :  Your Debugging Analyzer](https://medium.com/@md.abir1203/llm-your-debugging-analyzer-80e9901f1361?source=rss-b62bf3bb75c7------2)
-- [How to Document / Visual Summary for Technical Writing](https://medium.com/@md.abir1203/how-to-document-visual-summary-for-technical-writing-1c24c76a5364?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
