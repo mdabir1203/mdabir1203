@@ -47,8 +47,8 @@
 | Project       |                    Badge                     |  
 | :------------  | :------------------------------------------: |
                   
-| libft | [![libft](https://github.com/mdabir1203/mdabir1203/assets/66947064/27d7543a-9403-45be-908e-2d1a04c4b65e)](https://github.com/mdabir1203/libft) |
-| get_next_line  | [![get_next_line](https://github.com/mdabir1203/mdabir1203/assets/66947064/ff0f0ade-5845-4970-913e-1bf3a8d1048c)] (https://github.com/mdabir1203/Get_Next_Line_42) |
+|libft| [![libft](https://github.com/mdabir1203/mdabir1203/assets/66947064/27d7543a-9403-45be-908e-2d1a04c4b65e)](https://github.com/mdabir1203/libft) |
+|get_next_line| [![get_next_line](https://github.com/mdabir1203/mdabir1203/assets/66947064/ff0f0ade-5845-4970-913e-1bf3a8d1048c)](https://github.com/mdabir1203/Get_Next_Line_42) |
 | born2beroot    | ![born2beroot](https://github.com/mdabir1203/mdabir1203/assets/66947064/8c6cb002-3f36-4788-8749-7b14d4e0b6d1) |
 | ft_printf      | ![ft_printf](https://github.com/mdabir1203/mdabir1203/assets/66947064/fc22e82e-135f-4d9c-baef-0f998191f834) |
 | pipex          | ![pipex](https://github.com/mdabir1203/mdabir1203/assets/66947064/a77f8ce4-4cf4-4bd6-b6d8-f4155d785b61) |
