@@ -53,7 +53,7 @@
 | ft_printf      | [![ft_printf](https://github.com/mdabir1203/mdabir1203/assets/66947064/fc22e82e-135f-4d9c-baef-0f998191f834)](https://github.com/mdabir1203/Printf.git) |
 | pipex          | ![pipex](https://github.com/mdabir1203/mdabir1203/assets/66947064/a77f8ce4-4cf4-4bd6-b6d8-f4155d785b61) |
 | fractol        | ![fractol](https://github.com/mdabir1203/mdabir1203/assets/66947064/fe55e4dc-6c07-48c5-b26a-fe46f673323d) |
-| push_swap      | ![push_swap](https://github.com/mdabir1203/mdabir1203/assets/66947064/71c1453a-3df9-4905-8356-184e83fb5a20) |
+| push_swap      | [![push_swap](https://github.com/mdabir1203/mdabir1203/assets/66947064/71c1453a-3df9-4905-8356-184e83fb5a20)](https://github.com/mdabir1203/Push-Swap.git)
 | philosophers   | ![philosophers](https://github.com/mdabir1203/mdabir1203/assets/66947064/ac28cc5c-8e21-4345-bb7c-a89a605d9026) |
 | minishell      | [![minishell](https://github.com/mdabir1203/mdabir1203/assets/66947064/630bc7d0-57a2-4ff3-bd3a-4f37696dd40c)](https://github.com/mdabir1203/MindShell.git)
 | netpratice     | ![netpractice](https://github.com/mdabir1203/mdabir1203/assets/66947064/18caa5da-0602-4c03-b048-7ba67ed966af) |
