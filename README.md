@@ -46,28 +46,21 @@
 
 | Project       |                    Badge                     |  
 | :------------  | :------------------------------------------: |
-| libft          |         ![libft](https://github.com/mdabir1203/mdabir1203/assets/66947064/27d7543a-9403-45be-908e-2d1a04c4b65e)
-ibfte.png)        |                  |
-| get_next_line  | ![get_next_line](./badges/get_next_linee.png)| ![get_next_line-bonus](./badges/get_next_linem.png)     |
-| born2beroot    |   ![born2beroot](./badges/born2beroote.png)  |   ![born2beroot-bonus](./badges/born2berootm.png)       |
-| ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |     ![ft_printf-bonus](./badges/ft_printfm.png)         |
-| minitalk       |     ![minitalk](./badges/minitalke.png)      |      ![minitalk-bonus](./badges/minitalkm.png)          |
-| pipex          |      ![pipex](./badges/pipexe.png)           |         ![pipex-bonus](./badges/pipexm.png)             |
-| so_long        |      ![so_long](./badges/so_longe.png)       |       ![so_long-bonus](./badges/so_longm.png)           |
-| fdf            |      ![fdf](./badges/fdfe.png)               |       ![fdf-bonus](./badges/fdfm.png)                   |
-| fractol        |      ![fractol](./badges/fract-ole.png)      |       ![fractol-bonus](./badges/fract-olm.png)          |
-| push_swap      |     ![push_swap](./badges/push_swape.png)    |     ![push_swap-bonus](./badges/push_swapm.png)         |
-| philosophers   |  ![philosophers](./badges/philosopherse.png) |  ![philosophers-bonus](./badges/philosophersm.png)      |
-| minishell      |     ![minishell](./badges/minishelle.png)    |     ![minishell-bonus](./badges/minishellm.png)         |
-| netpratice     |     ![netpratice](./badges/netpracticee.png) |     ![netpratice-bonus](./badges/netpracticem.png)      |
-| cub3d          |     ![cub3d](./badges/cub3de.png)            |     ![cub3d-bonus](./badges/cub3dm.png)                |
-| minirt         |     ![minirt](./badges/minirte.png)          |     ![minirt-bonus](./badges/minirtm.png)              |
-| cpp            |     ![cpp](./badges/cppe.png)                |     ![cpp-bonus](./badges/cppm.png)                    |
-| ft_containers  |![ft_containers](./badges/ft_containerse.png) |     ![ft_containers](./badges/ft_containersm.png)      |
-| inception      |  ![inception](./badges/inceptione.png)       |     ![inception-bonus](./badges/inceptionm.png)        |
-| webserv        |  ![webserver](./badges/webserve.png)         |     ![webserver-bonus](./badges/webservm.png)          |
-| ft_irc         |  ![ft_irc](./badges/ft_irce.png)             |     ![ft_irc-bonus](./badges/ft_ircm.png)              |
-| ft_transcendence |  ![ft_transcendence](./badges/ft_transcendencee.png) |     ![ft_transcendence-bonus](./badges/ft_transcendencem.png)  
+| libft          | ![libft](https://github.com/mdabir1203/mdabir1203/assets/66947064/27d7543a-9403-45be-908e-2d1a04c4b65e)
+| get_next_line  | ![get_next_line](https://github.com/mdabir1203/mdabir1203/assets/66947064/ff0f0ade-5845-4970-913e-1bf3a8d1048c)
+| born2beroot    | ![born2beroot](https://github.com/mdabir1203/mdabir1203/assets/66947064/8c6cb002-3f36-4788-8749-7b14d4e0b6d1)
+| ft_printf      | ![ft_printf](https://github.com/mdabir1203/mdabir1203/assets/66947064/fc22e82e-135f-4d9c-baef-0f998191f834)
+| pipex          | ![pipex](./badg![pipexe](https://github.com/mdabir1203/mdabir1203/assets/66947064/a77f8ce4-4cf4-4bd6-b6d8-f4155d785b61)
+| fractol        | ![fractol](./![fract-ole](https://github.com/mdabir1203/mdabir1203/assets/66947064/fe55e4dc-6c07-48c5-b26a-fe46f673323d)
+| push_swap      | ![push_swap](https://github.com/mdabir1203/mdabir1203/assets/66947064/71c1453a-3df9-4905-8356-184e83fb5a20)
+| philosophers   | ![philosophers](https://github.com/mdabir1203/mdabir1203/assets/66947064/ac28cc5c-8e21-4345-bb7c-a89a605d9026)
+| minishell      | ![minishell](https://github.com/mdabir1203/mdabir1203/assets/66947064/630bc7d0-57a2-4ff3-bd3a-4f37696dd40c)
+| netpratice     | ![netpractice](https://github.com/mdabir1203/mdabir1203/assets66947064/7a612720-4349-4015-9cef-918ba87cd136)
+| cub3d          | ![cub3d](https://github.com/mdabir1203/mdabir1203/assets/66947064/7416c74f-cffc-467f-84b6-2cdae7c0c5fd)
+| cpp            | ![cpp](https://github.com/mdabir1203/mdabir1203/assets/66947064/5e397282-47b6-446b-a9d0-6f652bb13bd9)
+| inception      | ![inceptionm](https://github.com/mdabir1203/mdabir1203/assets/66947064/4af6a272-256b-44d2-ad49-85a5290b1b07)
+| webserv        | ![webserv](https://github.com/mdabir1203/mdabir1203/assets/66947064/d2fdeac9-76d1-4fbd-9939-ed63181c0960)
+| ft_transcendence| ![ft_transcendence-bonus](./badges/ft_transcendencem.png)  
 
 
 
