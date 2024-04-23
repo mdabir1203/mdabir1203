@@ -46,7 +46,7 @@
 
 | Project       |                    Badge                     |  
 | :------------  | :------------------------------------------: |
-| libft          | ![libft](https://github.com/mdabir1203/mdabir1203/assets/66947064/27d7543a-9403-45be-908e-2d1a04c4b65e)]
+| libft          | ![libft](https://github.com/mdabir1203/mdabir1203/assets/66947064/27d7543a-9403-45be-908e-2d1a04c4b65e)
 | get_next_line  | ![get_next_line](https://github.com/mdabir1203/mdabir1203/assets/66947064/ff0f0ade-5845-4970-913e-1bf3a8d1048c) |
 | born2beroot    | ![born2beroot](https://github.com/mdabir1203/mdabir1203/assets/66947064/8c6cb002-3f36-4788-8749-7b14d4e0b6d1) |
 | ft_printf      | ![ft_printf](https://github.com/mdabir1203/mdabir1203/assets/66947064/fc22e82e-135f-4d9c-baef-0f998191f834) |
