@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [From Poem to Melody: The Art of Music Creation](https://medium.com/@md.abir1203/from-poem-to-melody-the-art-of-music-creation-4acfef2f49e8?source=rss-b62bf3bb75c7------2)
 - [ESP32 memory visualizer](https://medium.com/@md.abir1203/esp32-memory-visualizer-466ca8a65d3b?source=rss-b62bf3bb75c7------2)
 - [Interactive Julia Set Visualization with ncurses](https://medium.com/@md.abir1203/interactive-julia-set-visualization-with-ncurses-37dbafbb22e5?source=rss-b62bf3bb75c7------2)
 - [Understanding Error Messages through LLM](https://medium.com/@md.abir1203/understanding-error-messages-through-llm-1fbe1c0f4d92?source=rss-b62bf3bb75c7------2)
 - [LLM : Your Security Auditor](https://medium.com/@md.abir1203/llm-your-security-auditor-1771bb4382fa?source=rss-b62bf3bb75c7------2)
-- [Microsoft 365 Copilot and DALL-E 3: A Fusion of Nostalgia and Innovation](https://medium.com/@md.abir1203/combining-nostalgia-and-technology-with-dall-e-3-e49a074e1c0d?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
