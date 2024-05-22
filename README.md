@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Back to Past aka Back to Basics : P1](https://medium.com/@md.abir1203/back-to-past-aka-back-to-basics-p1-f0d6b1a8aaeb?source=rss-b62bf3bb75c7------2)
 - [Enhancing Your Google Cloud Security: Important Update on Service Account Key Exposure](https://medium.com/@md.abir1203/enhancing-your-google-cloud-security-important-update-on-service-account-key-exposure-fb7814e1db2b?source=rss-b62bf3bb75c7------2)
 - [Understanding Embedded Systems with AI Vision](https://medium.com/@md.abir1203/understanding-embedded-systems-with-ai-vision-7fd1153f4ed9?source=rss-b62bf3bb75c7------2)
 - [OCR with Large Language Models &lt;&lt;AI&gt;&gt;](https://medium.com/@md.abir1203/ocr-with-large-language-models-ai-89f9e238273d?source=rss-b62bf3bb75c7------2)
 - [From Poem to Melody: The Art of Music Creation](https://medium.com/@md.abir1203/from-poem-to-melody-the-art-of-music-creation-4acfef2f49e8?source=rss-b62bf3bb75c7------2)
-- [ESP32 memory visualizer](https://medium.com/@md.abir1203/esp32-memory-visualizer-466ca8a65d3b?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
