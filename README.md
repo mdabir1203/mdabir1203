@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Code Comprehension: Leveraging LLM with Socratic Questioning and Abstraction ladder](https://medium.com/@md.abir1203/unlocking-code-comprehension-leveraging-llm-and-socratic-questioning-ce3d69141076?source=rss-b62bf3bb75c7------2)
 - [Rust Performance Optimization: Best Practices](https://medium.com/@md.abir1203/rust-performance-optimization-best-practices-c9de20154f46?source=rss-b62bf3bb75c7------2)
 - [Secure password hashing in Rust](https://medium.com/@md.abir1203/ultimate-guide-to-secure-password-hashing-and-verification-with-rust-and-pbkdf2-82c514d1f072?source=rss-b62bf3bb75c7------2)
 - [Transform Poetry into Music with Udio AI: A Step-by-Step Guide](https://medium.com/@md.abir1203/transform-poetry-into-music-with-udio-ai-a-step-by-step-guide-522ec38ae0fd?source=rss-b62bf3bb75c7------2)
 - [How Instagram Processes Your URL ?](https://medium.com/@md.abir1203/how-instagram-process-your-url-b52e36f43686?source=rss-b62bf3bb75c7------2)
-- [A comprehensive guide to enhancing software problem-solving skills : The TRIVZ Framework](https://medium.com/@md.abir1203/a-comprehensive-guide-to-enhancing-software-problem-solving-skills-the-trivz-framework-850e63f6527b?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
