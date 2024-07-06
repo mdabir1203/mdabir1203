@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep Dive into Tokenization: Powering Natural Language Processing &lpar;NLP&rpar; with Precision](https://medium.com/@md.abir1203/deep-dive-into-tokenization-powering-natural-language-processing-nlp-with-precision-d2530fe58536?source=rss-b62bf3bb75c7------2)
 - [Creating a Fun, Interactive Kaleidoscope with Claude AI: A Beginner’s Guide](https://medium.com/@md.abir1203/creating-a-fun-interactive-kaleidoscope-with-claude-ai-a-beginners-guide-5b690c09da2d?source=rss-b62bf3bb75c7------2)
 - [Mastering LLMs with Socratic Questioning and Abstraction Laddering for Optimal Code Understanding](https://medium.com/@md.abir1203/unlocking-code-comprehension-leveraging-llm-and-socratic-questioning-ce3d69141076?source=rss-b62bf3bb75c7------2)
 - [Rust Performance Optimization: Best Practices](https://medium.com/@md.abir1203/rust-performance-optimization-best-practices-c9de20154f46?source=rss-b62bf3bb75c7------2)
 - [Secure password hashing in Rust](https://medium.com/@md.abir1203/ultimate-guide-to-secure-password-hashing-and-verification-with-rust-and-pbkdf2-82c514d1f072?source=rss-b62bf3bb75c7------2)
-- [Transform Poetry into Music with Udio AI: A Step-by-Step Guide](https://medium.com/@md.abir1203/transform-poetry-into-music-with-udio-ai-a-step-by-step-guide-522ec38ae0fd?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
