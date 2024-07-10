@@ -16,7 +16,7 @@
 [![mdabir1203's GitHub | Topics Over Time](https://stats.quira.sh/mdabir1203/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mdabir1203)
 
 
-
+[![mdabir1203's GitHub | Stats](https://stats.quira.sh/mdabir1203/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mdabir1203)
 
 ## Recent Medium Stories
 
