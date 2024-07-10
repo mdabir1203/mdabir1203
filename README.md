@@ -3,7 +3,6 @@
   
 </div>
 
-
 <p style="text-align: center;">
 
 <div align="center">
@@ -13,6 +12,9 @@
 ⚡ Fun Fact: Harmonica player on bike rides. 
 </p>
 </div>
+
+[![mdabir1203's GitHub | Topics Over Time](https://stats.quira.sh/mdabir1203/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=mdabir1203)
+
 
 
 
@@ -27,20 +29,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## 👀 Check my Contents :
-
-
-<div align="center">
-<details>
- <summary></summary>
-    <video src="https://github.com/mdabir1203/mdabir1203/assets/66947064/0d8e4dda-c4e2-48d7-b74f-ffedb2a30377" controls alt="Are you CringeWorthy?">
-    </video>
-    <figcaption>4r3 y0u Cr1n63W0r7hy?</figcaption>
-  <a href="https://abir4.gumroad.com/l/dbnrjo" target="_blank">
-  <img src="https://buymyproduct.png" alt="Buy Here">
-</a>
-</details>
-</div>
 
 | Project       |                    Badge                     |  
 | :------------  | :------------------------------------------: |
