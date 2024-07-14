@@ -1,0 +1,4 @@
+requests
+sentence-transformers
+google-cloud-texttospeech
+weaviate-client
