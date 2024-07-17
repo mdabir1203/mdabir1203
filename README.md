@@ -9,7 +9,7 @@
 💻 Creative problem solving with Gen AI, API Development and Embedded Technologies.<br>
 🌱 Exploring Langchain, LLMs, and ESP.<br>
 🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
-⚡ Fun Fact: Harmonica player on bike rides. 
+⚡ Fun Fact: Harmonica player while riding a bike 
 </p>
 </div>
 
