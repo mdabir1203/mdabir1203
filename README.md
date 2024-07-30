@@ -22,7 +22,7 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Data and Serialization Templates with JSON, YAML, and Jinja](https://medium.com/@md.abir1203/simplifying-data-and-serialization-templates-with-json-yaml-and-jinja-54e9ca815c52?source=rss-b62bf3bb75c7------2)
+- [Simplifying Data and Serialization Templates with JSON, YAML, and Jinja](https://towardsdev.com/simplifying-data-and-serialization-templates-with-json-yaml-and-jinja-54e9ca815c52?source=rss-b62bf3bb75c7------2)
 - [Building a Routine with LLM &amp; Latex](https://medium.com/@md.abir1203/building-a-routine-with-llm-latex-5517a55f51a8?source=rss-b62bf3bb75c7------2)
 - [Deep Dive into Tokenization: Powering Natural Language Processing &lpar;NLP&rpar; with Precision](https://medium.com/@md.abir1203/deep-dive-into-tokenization-powering-natural-language-processing-nlp-with-precision-d2530fe58536?source=rss-b62bf3bb75c7------2)
 - [Creating a Fun, Interactive Kaleidoscope with Claude AI: A Beginner’s Guide](https://medium.com/@md.abir1203/creating-a-fun-interactive-kaleidoscope-with-claude-ai-a-beginners-guide-5b690c09da2d?source=rss-b62bf3bb75c7------2)
