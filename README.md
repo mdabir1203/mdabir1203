@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [`Async and the Future` : How it changes the coding style in Rust](https://medium.com/@md.abir1203/async-and-the-future-how-it-changes-the-coding-style-in-rust-a2a152e6c86d?source=rss-b62bf3bb75c7------2)
 - [From C to Rust: A Modern Transformation for Legacy Code](https://medium.com/@md.abir1203/from-c-to-rust-a-modern-transformation-for-legacy-code-df053d9dce27?source=rss-b62bf3bb75c7------2)
 - [Optimizing Your Rust Development Workflow with GitHub Actions](https://medium.com/@md.abir1203/optimizing-your-rust-development-workflow-with-github-actions-7675e44142d8?source=rss-b62bf3bb75c7------2)
 - [The Power of  Pattern Matching: Understanding the `match` Keyword in Rust](https://medium.com/@md.abir1203/the-power-of-pattern-matching-understanding-the-match-keyword-in-rust-0f14d1ea971c?source=rss-b62bf3bb75c7------2)
 - [Simplifying Data and Serialization Templates with JSON, YAML, and Jinja](https://towardsdev.com/simplifying-data-and-serialization-templates-with-json-yaml-and-jinja-54e9ca815c52?source=rss-b62bf3bb75c7------2)
-- [Building a Routine with LLM &amp; Latex](https://medium.com/@md.abir1203/building-a-routine-with-llm-latex-5517a55f51a8?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
