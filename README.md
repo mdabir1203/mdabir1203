@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [A Simplified Comparison : Rust and Pointers](https://medium.com/@md.abir1203/a-simplified-comparison-rust-and-pointers-cb904c206da0?source=rss-b62bf3bb75c7------2)
 - [Rust Macros: A Deep Dive into Metaprogramming](https://medium.com/@md.abir1203/rust-macros-a-deep-dive-into-metaprogramming-961329abf9ae?source=rss-b62bf3bb75c7------2)
 - [Tame Your Configuration Chaos: Why Sorting is a Developer’s Secret Weapon?](https://medium.com/@md.abir1203/tame-your-configuration-chaos-why-sorting-is-a-developers-secret-weapon-103262d8205a?source=rss-b62bf3bb75c7------2)
 - [Null Pointers vs. Rust’s Option Type: A Comprehensive Comparison](https://medium.com/@md.abir1203/null-pointers-vs-rusts-option-type-a-comprehensive-comparison-31c52bc8f4c1?source=rss-b62bf3bb75c7------2)
 - [`Async and the Future` : How it changes the coding style in Rust](https://medium.com/@md.abir1203/async-and-the-future-how-it-changes-the-coding-style-in-rust-a2a152e6c86d?source=rss-b62bf3bb75c7------2)
-- [From C to Rust: A Modern Transformation for Legacy Code](https://medium.com/@md.abir1203/from-c-to-rust-a-modern-transformation-for-legacy-code-df053d9dce27?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
