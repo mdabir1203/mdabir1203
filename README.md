@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding Common Rust Mistakes: Sentinel Values and Effective Enums](https://medium.com/@md.abir1203/avoiding-common-rust-mistakes-sentinel-values-and-effective-enums-7d142402937f?source=rss-b62bf3bb75c7------2)
 - [Rust Programming Essentials: How the main.rs File Works](https://medium.com/@md.abir1203/rust-programming-essentials-how-the-main-rs-file-works-e554f51576d8?source=rss-b62bf3bb75c7------2)
 - [Common Programming Errors :How Rust Prevents Them](https://medium.com/@md.abir1203/common-programming-errors-how-rust-prevents-them-a1ec8c0b3397?source=rss-b62bf3bb75c7------2)
 - [Rust vs C++: A Comprehensive Syntax Safari](https://medium.com/@md.abir1203/rust-vs-c-a-comprehensive-syntax-safari-f62254f9b878?source=rss-b62bf3bb75c7------2)
 - [Rust Modules Reimagined : Organizing Code](https://medium.com/@md.abir1203/rust-modules-reimagined-organizing-code-15a57c39d648?source=rss-b62bf3bb75c7------2)
-- [A Simplified Comparison : Rust and Pointers](https://medium.com/@md.abir1203/a-simplified-comparison-rust-and-pointers-cb904c206da0?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
