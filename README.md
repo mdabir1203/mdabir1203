@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Amortized Complexity: Comparing Algorithms across Programming Languages](https://medium.com/@md.abir1203/mastering-amortized-complexity-comparing-algorithms-across-programming-languages-0a4951308071?source=rss-b62bf3bb75c7------2)
 - [Understanding Amortized Complexity: A Beginner’s Guide to Efficient Rust Programming](https://medium.com/@md.abir1203/understanding-amortized-complexity-a-beginners-guide-to-efficient-rust-programming-79e1a9ca8c15?source=rss-b62bf3bb75c7------2)
 - [The Emotional Rollercoaster of Rust Error Handling: A Developer’s Journey](https://medium.com/@md.abir1203/the-emotional-rollercoaster-of-rust-error-handling-a-developers-journey-6e06fa55936a?source=rss-b62bf3bb75c7------2)
 - [Avoiding Common Rust Mistakes: Sentinel Values and Effective Enums](https://medium.com/@md.abir1203/avoiding-common-rust-mistakes-sentinel-values-and-effective-enums-7d142402937f?source=rss-b62bf3bb75c7------2)
 - [Rust Programming Essentials: How the main.rs File Works](https://medium.com/@md.abir1203/rust-programming-essentials-how-the-main-rs-file-works-e554f51576d8?source=rss-b62bf3bb75c7------2)
-- [Common Programming Errors :How Rust Prevents Them](https://medium.com/@md.abir1203/common-programming-errors-how-rust-prevents-them-a1ec8c0b3397?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
