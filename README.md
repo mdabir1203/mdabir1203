@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Rust’s Lifetimes](https://medium.com/@md.abir1203/exploring-rusts-lifetimes-9b9c154b063e?source=rss-b62bf3bb75c7------2)
 - [SPECTRE: Exploiting Speculative Execution — Technical Analysis](https://medium.com/@md.abir1203/spectre-exploiting-speculative-execution-technical-analysis-77f3677a63ea?source=rss-b62bf3bb75c7------2)
 - [How to ensure Safe coding in Rust ?](https://medium.com/@md.abir1203/how-to-ensure-safe-coding-in-rust-4bd8c9dba6b0?source=rss-b62bf3bb75c7------2)
 - [Mastering Amortized Complexity: Comparing Algorithms across Programming Languages](https://medium.com/@md.abir1203/mastering-amortized-complexity-comparing-algorithms-across-programming-languages-0a4951308071?source=rss-b62bf3bb75c7------2)
 - [Understanding Amortized Complexity: A Beginner’s Guide to Efficient Rust Programming](https://medium.com/@md.abir1203/understanding-amortized-complexity-a-beginners-guide-to-efficient-rust-programming-79e1a9ca8c15?source=rss-b62bf3bb75c7------2)
-- [The Emotional Rollercoaster of Rust Error Handling: A Developer’s Journey](https://medium.com/@md.abir1203/the-emotional-rollercoaster-of-rust-error-handling-a-developers-journey-6e06fa55936a?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
