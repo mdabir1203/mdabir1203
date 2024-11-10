@@ -22,11 +22,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: Using Large Language Models &lpar;LLMs&rpar; to Reverse Engineer and Optimize Backend Code](https://towardsdev.com/tutorial-using-large-language-models-llms-to-reverse-engineer-and-optimize-backend-code-def1fba3bb74?source=rss-b62bf3bb75c7------2)
 - [How to Build a Connection Diagnostics Tool in Rust: A Step-by-Step Guide](https://medium.com/@md.abir1203/how-to-build-a-connection-diagnostics-tool-in-rust-a-step-by-step-guide-4186b3084314?source=rss-b62bf3bb75c7------2)
 - [How to Build a Reliable Multithreaded TCP Server in Rust: A Step-by-Step Guide](https://towardsdev.com/how-to-build-a-reliable-multithreaded-tcp-server-in-rust-a-step-by-step-guide-ba7475f3cdc8?source=rss-b62bf3bb75c7------2)
 - [Exploring Rust’s Lifetimes](https://medium.com/@md.abir1203/exploring-rusts-lifetimes-9b9c154b063e?source=rss-b62bf3bb75c7------2)
 - [SPECTRE: Exploiting Speculative Execution — Technical Analysis](https://medium.com/@md.abir1203/spectre-exploiting-speculative-execution-technical-analysis-77f3677a63ea?source=rss-b62bf3bb75c7------2)
-- [How to ensure Safe coding in Rust ?](https://medium.com/@md.abir1203/how-to-ensure-safe-coding-in-rust-4bd8c9dba6b0?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
