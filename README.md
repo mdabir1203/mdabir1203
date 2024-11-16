@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/mdabir1203/mdabir1203/assets/66947064/dc33981c-00bf-42e4-a644-06d63ecc16d7" alt="Banner Image" />
-  
-</div>
+
 
 <p style="text-align: center;">
 
