@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [True Story : Growing Social Media Followers as a Cofounder](https://medium.com/@md.abir1203/true-story-growing-social-media-followers-as-a-cofounder-3791bd8524f0?source=rss-b62bf3bb75c7------2)
 - [Why Lifetimes? Or, “Why Can’t Rust Just Trust Me?”](https://medium.com/@md.abir1203/why-lifetimes-or-why-cant-rust-just-trust-me-305dbcd24dda?source=rss-b62bf3bb75c7------2)
 - [Aesthetic Art of Prompt Engineering:](https://medium.com/@md.abir1203/aesthetic-art-of-prompt-engineering-6b3b16296526?source=rss-b62bf3bb75c7------2)
 - [Mastering Rust Pointers: A Practical Guide for Beginners and Experts](https://medium.com/@md.abir1203/mastering-rust-pointers-a-practical-guide-for-beginners-and-experts-60666bdf8eb4?source=rss-b62bf3bb75c7------2)
 - [Tutorial: Using Large Language Models &lpar;LLMs&rpar; to Reverse Engineer and Optimize Backend Code](https://towardsdev.com/tutorial-using-large-language-models-llms-to-reverse-engineer-and-optimize-backend-code-def1fba3bb74?source=rss-b62bf3bb75c7------2)
-- [Build a Connection Diagnostics Tool in Rust: A Step-by-Step Guide](https://medium.com/@md.abir1203/how-to-build-a-connection-diagnostics-tool-in-rust-a-step-by-step-guide-4186b3084314?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
