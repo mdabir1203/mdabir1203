@@ -19,7 +19,7 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Rust Data Types for Maximum Performance](https://medium.com/@md.abir1203/mastering-rust-data-types-for-maximum-performance-18bb0235c8f0?source=rss-b62bf3bb75c7------2)
+- [Mastering Rust Data Types for Maximum Performance](https://towardsdev.com/mastering-rust-data-types-for-maximum-performance-18bb0235c8f0?source=rss-b62bf3bb75c7------2)
 - [How to Create an Interactive Explosion Effect with HTML5 Canvas: A Fun-Filled Guide!](https://medium.com/@md.abir1203/how-to-create-an-interactive-explosion-effect-with-html5-canvas-a-fun-filled-guide-9ff752eccb4f?source=rss-b62bf3bb75c7------2)
 - [Rust and Multithreading: Real-Life Applications and Examples](https://medium.com/@md.abir1203/rust-and-multithreading-real-life-applications-and-examples-4f404e86f1de?source=rss-b62bf3bb75c7------2)
 - [Vulnerability Hunting: Cracking the Code of Digital Insecurity](https://medium.com/@md.abir1203/vulnerability-hunting-cracking-the-code-of-digital-insecurity-17e40cea7db9?source=rss-b62bf3bb75c7------2)
