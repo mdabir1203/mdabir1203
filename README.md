@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Cofounder Experience: Part 2](https://medium.com/@md.abir1203/cofounder-experience-part-2-b05167926d03?source=rss-b62bf3bb75c7------2)
 - [Mastering Rust Data Types for Maximum Performance](https://towardsdev.com/mastering-rust-data-types-for-maximum-performance-18bb0235c8f0?source=rss-b62bf3bb75c7------2)
 - [How to Create an Interactive Explosion Effect with HTML5 Canvas: A Fun-Filled Guide!](https://medium.com/@md.abir1203/how-to-create-an-interactive-explosion-effect-with-html5-canvas-a-fun-filled-guide-9ff752eccb4f?source=rss-b62bf3bb75c7------2)
 - [Rust and Multithreading: Real-Life Applications and Examples](https://medium.com/@md.abir1203/rust-and-multithreading-real-life-applications-and-examples-4f404e86f1de?source=rss-b62bf3bb75c7------2)
 - [Vulnerability Hunting: Cracking the Code of Digital Insecurity](https://medium.com/@md.abir1203/vulnerability-hunting-cracking-the-code-of-digital-insecurity-17e40cea7db9?source=rss-b62bf3bb75c7------2)
-- [AI সিস্টেমে প্রম্পট ইনজেকশনের প্রভাব: একটি বিস্তৃত পর্যালোচনা](https://medium.com/@md.abir1203/ai-%E0%A6%B8%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%9F-%E0%A6%87%E0%A6%A8%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%AC-%E0%A6%8F%E0%A6%95%E0%A6%9F%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%83%E0%A6%A4-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A7%8B%E0%A6%9A%E0%A6%A8%E0%A6%BE-067b42fb7de8?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
