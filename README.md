@@ -19,7 +19,7 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking with Criterion.rs: Unlock the Power of Performance Optimization in Rust](https://medium.com/@md.abir1203/benchmarking-with-criterion-rs-unlock-the-power-of-performance-optimization-in-rust-35c0cafffd06?source=rss-b62bf3bb75c7------2)
+- [Benchmarking with Criterion.rs: Unlock the Power of Performance Optimization in Rust](https://medium.com/rustaceans/benchmarking-with-criterion-rs-unlock-the-power-of-performance-optimization-in-rust-35c0cafffd06?source=rss-b62bf3bb75c7------2)
 - [Cofounder Experience: Part 2](https://medium.com/@md.abir1203/cofounder-experience-part-2-b05167926d03?source=rss-b62bf3bb75c7------2)
 - [Mastering Rust Data Types for Maximum Performance](https://towardsdev.com/mastering-rust-data-types-for-maximum-performance-18bb0235c8f0?source=rss-b62bf3bb75c7------2)
 - [How to Create an Interactive Explosion Effect with HTML5 Canvas: A Fun-Filled Guide!](https://medium.com/@md.abir1203/how-to-create-an-interactive-explosion-effect-with-html5-canvas-a-fun-filled-guide-9ff752eccb4f?source=rss-b62bf3bb75c7------2)
