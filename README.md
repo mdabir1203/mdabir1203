@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Prompt Injection: Understanding AI Vulnerabilities for Everyone](https://medium.com/@md.abir1203/the-ultimate-guide-to-prompt-injection-understanding-ai-vulnerabilities-for-everyone-3135a9f1e980?source=rss-b62bf3bb75c7------2)
 - [Writing Better Rust Code: A Practical Guide for Everyone](https://medium.com/@md.abir1203/writing-better-rust-code-a-practical-guide-for-everyone-2d9658eb969e?source=rss-b62bf3bb75c7------2)
 - [Streamlining Code Architecture: A Practical Guide to Multi-LLM Development](https://medium.com/@md.abir1203/revolutionize-your-coding-workflow-using-multiple-llms-for-better-code-design-c5d2deeb4bc5?source=rss-b62bf3bb75c7------2)
 - [Benchmarking with Criterion.rs: Unlock the Power of Performance Optimization in Rust](https://medium.com/rustaceans/benchmarking-with-criterion-rs-unlock-the-power-of-performance-optimization-in-rust-35c0cafffd06?source=rss-b62bf3bb75c7------2)
 - [Cofounder Experience: Part 2](https://medium.com/@md.abir1203/cofounder-experience-part-2-b05167926d03?source=rss-b62bf3bb75c7------2)
-- [Mastering Rust Data Types for Maximum Performance](https://towardsdev.com/mastering-rust-data-types-for-maximum-performance-18bb0235c8f0?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
