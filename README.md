@@ -19,7 +19,7 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Rust Generics with Real-World Examples](https://medium.com/@md.abir1203/understanding-rust-generics-with-real-world-examples-40d1a607a67b?source=rss-b62bf3bb75c7------2)
+- [Understanding Rust Generics with Real-World Examples](https://medium.com/rustaceans/understanding-rust-generics-with-real-world-examples-40d1a607a67b?source=rss-b62bf3bb75c7------2)
 - [The Ultimate Guide to Prompt Injection: Understanding AI Vulnerabilities for Everyone](https://medium.com/@md.abir1203/the-ultimate-guide-to-prompt-injection-understanding-ai-vulnerabilities-for-everyone-3135a9f1e980?source=rss-b62bf3bb75c7------2)
 - [Writing Better Rust Code: A Practical Guide for Everyone](https://medium.com/@md.abir1203/writing-better-rust-code-a-practical-guide-for-everyone-2d9658eb969e?source=rss-b62bf3bb75c7------2)
 - [Streamlining Code Architecture: A Practical Guide to Multi-LLM Development](https://medium.com/@md.abir1203/revolutionize-your-coding-workflow-using-multiple-llms-for-better-code-design-c5d2deeb4bc5?source=rss-b62bf3bb75c7------2)
