@@ -19,11 +19,11 @@
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
+- [Recent Rust Updates for Advanced Compile-Time Safety and Efficiency](https://medium.com/@md.abir1203/recent-rust-updates-for-advanced-compile-time-safety-and-efficiency-6f95ec777e5a?source=rss-b62bf3bb75c7------2)
 - [`cargo.toml` as a Declarative Programming Model for Dependencies](https://medium.com/@md.abir1203/cargo-toml-as-a-declarative-programming-model-for-dependencies-412edb56732a?source=rss-b62bf3bb75c7------2)
 - [Deref Coercion: Rust’s Polite Butler](https://medium.com/@md.abir1203/deref-coercion-rusts-polite-butler-8c55da805e19?source=rss-b62bf3bb75c7------2)
 - [Rust Debugging Cheatsheet](https://medium.com/@md.abir1203/rust-debugging-cheatsheet-9bb98a9727cd?source=rss-b62bf3bb75c7------2)
 - [Leveraging Keywords as Creative Coding Assistance with Large Language Models &lpar;LLMs&rpar;](https://towardsdev.com/leveraging-keywords-as-creative-coding-assistance-with-large-language-models-llms-6cdb659c3246?source=rss-b62bf3bb75c7------2)
-- [LLM : Your CodeFlow Creator](https://towardsdev.com/llm-your-codeflow-creator-bdd1711f36ae?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
