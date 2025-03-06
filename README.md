@@ -3,7 +3,7 @@
 <p style="text-align: center;">
 
 <div align="center">
-💻 Creative problem solving with Gen AI and Rust.<br>
+💻 First Principle Value finding with Gen AI and Rust.<br>
 🌱 Exploring LLM, Rust .<br>
 🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
 ⚡ Fun Fact: Harmonica player while riding a bike
