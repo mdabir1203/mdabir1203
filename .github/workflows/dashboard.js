@@ -39,7 +39,7 @@ ${banner}
 - Public Repos: ${ghData.public_repos}
 
 **⚡ Hacker Tip of the Day**  
-> ${tip}
+> ${quote}
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=${ghUser}&theme=tokyo-night)
 
