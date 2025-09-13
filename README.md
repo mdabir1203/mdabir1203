@@ -36,5 +36,4 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdabir1203&theme=tokyo-night)
 
----
-⚔️ *Automated update every 6h by a secret hacker agent...*
+
