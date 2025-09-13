@@ -10,11 +10,6 @@
 </p>
 </div>
 
-<a align="mid-center" href="https://quira.sh?utm_source=widgets&utm_campaign=mdabir1203">
-  <img src="https://stats.quira.sh/mdabir1203/github?theme=dark" alt="mdabir1203's GitHub | Stats" width="400" height="400">
-</a>
-
-
 ## Recent Medium Stories
 
 <!-- BLOG-POST-LIST:START -->
