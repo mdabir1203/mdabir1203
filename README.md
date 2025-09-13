@@ -12,10 +12,11 @@
 - Followers: 215
 - Public Repos: 64
 
-**My Technical Blog**
-```
+** 📝 My Technical Blog**
+
 
 <!-- BLOG-POST-LIST:START -->
+```
  - How to Migrate Your Vite + React + TypeScript Project from npm to Yarn &lpar;The Clean Way&rpar; 
 
  - Fixing Common TypeScript + React Errors When Building a Portfolio Website 
@@ -24,10 +25,11 @@
 
  - ShadowMap: Building an Advanced Rust-Based Reconnaissance Tool 
 
- - RabbitMQ vs Kafka: The $100,000 Architecture Decision That Could Make or Break Your Startup 
+ - RabbitMQ vs Kafka: The $100,000 Architecture Decision That Could Make or Break Your Startup
+```
 <!-- BLOG-POST-LIST:END -->
 
-```
+
 
 **⚡ Hacker Tip of the Day**  
 > Hack the planet!
