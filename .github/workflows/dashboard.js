@@ -37,7 +37,6 @@ ${banner}
 **💻 GitHub Hacker Stats**
 - Followers: ${ghData.followers}
 - Public Repos: ${ghData.public_repos}
-- Current Weather: ${weather}
 
 **⚡ Hacker Tip of the Day**  
 > ${tip}
