@@ -20,7 +20,7 @@ jobs:
       - name: Run Hacker Dashboard Script
         run: |
           npm install axios chalk figlet
-          node .github/scripts/dashboard.js
+          node .github/dashboard.js
 
       - name: Commit & Push README
         run: |
