@@ -12,6 +12,9 @@
 - Followers: 215
 - Public Repos: 64
 
+**My Technical Blog**
+```
+
 <!-- BLOG-POST-LIST:START -->
  - How to Migrate Your Vite + React + TypeScript Project from npm to Yarn &lpar;The Clean Way&rpar; 
 
@@ -23,6 +26,8 @@
 
  - RabbitMQ vs Kafka: The $100,000 Architecture Decision That Could Make or Break Your Startup 
 <!-- BLOG-POST-LIST:END -->
+
+```
 
 **⚡ Hacker Tip of the Day**  
 > Hack the planet!
