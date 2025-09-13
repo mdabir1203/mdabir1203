@@ -1,30 +1,21 @@
 
+# 🕶️ Hacker's Dashboard
 
-<p style="text-align: center;">
+```
+ _     _ _______ _______ _     _      _______ _     _ _______      _______  _____  ______  _______
+ |_____| |_____| |       |____/          |    |_____| |______      |       |     | |     \ |______
+ |     | |     | |_____  |    \_         |    |     | |______      |_____  |_____| |_____/ |______
+                                                                                                  
+```
 
-<div align="center">
-💻 Diving into Embedded & Security with AI and Rust.<br>
-🚀 Open to collaborations in AI-Powered Software and Tech Innovations.<br>
-⚡ Fun Fact: Harmonica player while riding a bike
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="35" height="35" />
-</p>
-</div>
+**💻 GitHub Hacker Stats**
+- Followers: 215
+- Public Repos: 64
 
-## Recent Medium Stories
+**⚡ Hacker Tip of the Day**  
+> Hack the planet!
 
-<!-- BLOG-POST-LIST:START -->
- - How to Migrate Your Vite + React + TypeScript Project from npm to Yarn &lpar;The Clean Way&rpar; 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdabir1203&theme=tokyo-night)
 
- - Fixing Common TypeScript + React Errors When Building a Portfolio Website 
-
- - ⚙️ Three Crates That Make Rust Life Easier: color-eyre, parking_lot, and once_cell 
-
- - ShadowMap: Building an Advanced Rust-Based Reconnaissance Tool 
-
- - RabbitMQ vs Kafka: The $100,000 Architecture Decision That Could Make or Break Your Startup 
-<!-- BLOG-POST-LIST:END -->
-
-
-**<h3 align="left">Support:</h3>**
-<p><a href="https://www.buymeacoffee.com/uKnowWho"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uKnowWho" /></a></p><br><br>
-
+---
+⚔️ *Automated update every 6h by a secret hacker agent...*
