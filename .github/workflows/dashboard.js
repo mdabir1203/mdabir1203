@@ -23,9 +23,14 @@ const figlet = require("figlet");
   const ghUser = "mdabir1203";
   const ghData = (await axios.get(`https://api.github.com/users/${ghUser}`)).data;
 
-  // ASCII Banner
-  const banner = figlet.textSync("HACK THE CODE", { font: "Cyberlarge" });
+  // Create ASCII banner from the random tip
+  let bannerText = tip.split(" ").slice(0, 5).join(" ");
+  if (bannerText.length > 25) {
+    bannerText = bannerText.substring(0, 25) + "...";
+  }
 
+  const banner = figlet.textSync(bannerText.toUpperCase(), { font: "Cyberlarge" });
+  
   // Regenerate README.md
   const readme = `
 # 🕶️ Hacker's Dashboard
