@@ -13,7 +13,15 @@
 - Public Repos: 64
 
 <!-- BLOG-POST-LIST:START -->
+ - How to Migrate Your Vite + React + TypeScript Project from npm to Yarn &lpar;The Clean Way&rpar; 
 
+ - Fixing Common TypeScript + React Errors When Building a Portfolio Website 
+
+ - ⚙️ Three Crates That Make Rust Life Easier: color-eyre, parking_lot, and once_cell 
+
+ - ShadowMap: Building an Advanced Rust-Based Reconnaissance Tool 
+
+ - RabbitMQ vs Kafka: The $100,000 Architecture Decision That Could Make or Break Your Startup 
 <!-- BLOG-POST-LIST:END -->
 
 **⚡ Hacker Tip of the Day**  
