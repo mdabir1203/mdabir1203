@@ -12,6 +12,10 @@
 - Followers: 215
 - Public Repos: 64
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 **⚡ Hacker Tip of the Day**  
 > Hack the planet!
 
