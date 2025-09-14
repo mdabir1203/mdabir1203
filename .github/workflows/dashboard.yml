@@ -28,12 +28,6 @@ jobs:
           feed_list: "https://medium.com/feed/@md.abir1203"
           retry_count: 3
           retry_wait_time: 10
-          max_retry_time: 60
-          custom_tags: "medium"
-          disable_sort: false
-          template: "$newline - $title $newline"
-          commit_message: "Updated with latest blog posts"
-          rate_limit: 5000    
 
       - name: Commit & Push README
         run: |
