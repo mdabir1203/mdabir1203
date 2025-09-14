@@ -19,5 +19,4 @@ jobs:
           feed_list: "https://medium.com/feed/@md.abir1203"
           retry_count: 3
           retry_wait_time: 10
-          template: "<tr><td>$title</td><td>$url</td></tr>"
           commit_message: "Updated with latest blog posts"
