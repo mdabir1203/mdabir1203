@@ -26,8 +26,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@md.abir1203"
-          retry_count: 3
-          retry_wait_time: 10
+          templates: '<li><a href="$url">$title</a></li>$newline'
 
       - name: Commit & Push README
         run: |
