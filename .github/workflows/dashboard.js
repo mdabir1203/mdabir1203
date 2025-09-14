@@ -24,7 +24,7 @@ const figlet = require("figlet");
   const ghData = (await axios.get(`https://api.github.com/users/${ghUser}`)).data;
 
   // Create ASCII banner from the random tip
-  let bannerText = tip.split(" ").slice(0, 5).join(" ");
+  let bannerText = quote.split(" ").slice(0, 5).join(" ");
   if (bannerText.length > 25) {
     bannerText = bannerText.substring(0, 25) + "...";
   }
