@@ -1,5 +1,10 @@
+## Things we did 
 
-# 🕶️ Hacker's Dashboard
+- Reversed engineered Axios, Tokyo, Serde, Django api to build a complete mental model of the frameworks and explain them in the most simplest manner
+- Next up : Bun - DeepSpeed - Rig 
+
+
+# 🕶️ 
 
 ```
  _     _ _______ _______ _     _      _______ _     _ _______       _____         _______ __   _ _______ _______   /
