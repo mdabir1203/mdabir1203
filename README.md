@@ -4,6 +4,13 @@
 - Next up : Bun - DeepSpeed - Rig 
 
 
+## My Technical Post 
+
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
+
 # 🕶️ 
 
 ```
