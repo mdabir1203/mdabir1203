@@ -9,8 +9,10 @@ Our foundation at 42 Wolfsburg and AIESEC cultivated our growth mindset in opera
 Our next chapter focuses on identifying and building long-term business partnerships with organizations that share our commitment to continuous improvement, sustainable growth, and AI-enhanced strategic execution.
 Connect with our ongoing journey:
 
-AI-Enhanced Insights & Learning: medium.com/@md.abir1203
-Strategic Knowledge Sharing: https://www.youtube.com/channel/UCPM3MAgkXUOFSfysJuAvthQ
+📖 Insights: [medium.com/@md.abir1203](Medium)
+
+🎥 Knowledge Sharing: [https://www.youtube.com/channel/UCPM3MAgkXUOFSfysJuAvthQ](YouTube)
+
 
 ## Things we did 
 
