@@ -25,11 +25,11 @@ Connect with our ongoing journey:
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [How Shreyas Doshi’s Product Sense Rewired How We Build Products — From ShadowMap to Trip-Story](https://medium.com/@md.abir1203/how-shreyas-doshis-product-sense-rewired-how-we-build-products-from-shadowmap-to-trip-story-0e5929c6f925?source=rss-b62bf3bb75c7------2)
 - [Fixing Cross-Origin Security Leaks in Modern Webapps &lpar;XSS &amp; XS-Leaks&rpar;](https://levelup.gitconnected.com/fixing-cross-origin-security-leaks-in-modern-webapps-xss-xs-leaks-6d13bb173488?source=rss-b62bf3bb75c7------2)
 - [WebAuthn in Practice: Passwordless Login with Node.js + React with Code](https://medium.com/@md.abir1203/webauthn-in-practice-passwordless-login-with-node-js-react-with-code-a22dd524ed18?source=rss-b62bf3bb75c7------2)
 - [Building Shadowmap: Why We Scan Our Own Cloud and What the Results Really Mean](https://blog.stackademic.com/building-shadowmap-why-we-scan-our-own-cloud-and-what-the-results-really-mean-b4bf1c021c56?source=rss-b62bf3bb75c7------2)
 - [ShadowMap Feature Update 101: Automating SBOM Generation and Vulnerability Analysis](https://levelup.gitconnected.com/shadowmap-feature-update-101-automating-sbom-generation-and-vulnerability-analysis-64e4e2270ce9?source=rss-b62bf3bb75c7------2)
-- [Rust Crates Security Analysis: From Solo Dev to Supply Chain Defender](https://medium.com/@md.abir1203/rust-crates-security-analysis-from-solo-dev-to-supply-chain-defender-b802255351fe?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
