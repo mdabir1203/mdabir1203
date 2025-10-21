@@ -25,11 +25,11 @@ Connect with our ongoing journey:
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [When Your OTP Doesn’t Arrive: The Hidden Story Behind Digital Verification](https://medium.com/@md.abir1203/when-your-otp-doesnt-arrive-the-hidden-story-behind-digital-verification-830fc16073ef?source=rss-b62bf3bb75c7------2)
 - [Learn sqlx in Rust: a complete mental model + code-first playbook &lpar;with plain-English metaphors&rpar;](https://medium.com/@md.abir1203/learn-sqlx-in-rust-a-complete-mental-model-code-first-playbook-with-plain-english-metaphors-0ecf17effbf0?source=rss-b62bf3bb75c7------2)
 - [Global Thinking: How Culture Shapes AI, Rust, and the Future of Problem Solving](https://medium.com/@md.abir1203/global-thinking-how-culture-shapes-ai-rust-and-the-future-of-problem-solving-ce89fb0d6b52?source=rss-b62bf3bb75c7------2)
 - [How Shreyas Doshi’s Product Sense Rewired How We Build Products — From ShadowMap to Trip-Story](https://medium.com/@md.abir1203/how-shreyas-doshis-product-sense-rewired-how-we-build-products-from-shadowmap-to-trip-story-0e5929c6f925?source=rss-b62bf3bb75c7------2)
 - [Fixing Cross-Origin Security Leaks in Modern Webapps &lpar;XSS &amp; XS-Leaks&rpar;](https://levelup.gitconnected.com/fixing-cross-origin-security-leaks-in-modern-webapps-xss-xs-leaks-6d13bb173488?source=rss-b62bf3bb75c7------2)
-- [WebAuthn in Practice: Passwordless Login with Node.js + React with Code](https://medium.com/@md.abir1203/webauthn-in-practice-passwordless-login-with-node-js-react-with-code-a22dd524ed18?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
