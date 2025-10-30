@@ -25,11 +25,11 @@ Connect with our ongoing journey:
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [When CI Pipelines Break: A 5-Whys Deep Dive into the “Shadowmap Hotpath Failure”](https://medium.com/@md.abir1203/when-ci-pipelines-break-a-5-whys-deep-dive-into-the-shadowmap-hotpath-failure-6f1d66fd618f?source=rss-b62bf3bb75c7------2)
 - [The Backslash Bug: How a Tiny Path Glitch in Vite Could Leak Your Secrets](https://medium.com/@md.abir1203/the-backslash-bug-how-a-tiny-path-glitch-in-vite-could-leak-your-secrets-9641de420f5e?source=rss-b62bf3bb75c7------2)
 - [Why I Chose Blue-Green: A Color Philosophy Born from 13 Countries and Countless Conversations](https://medium.com/@md.abir1203/why-i-chose-blue-green-a-color-philosophy-born-from-13-countries-and-countless-conversations-192a30a981e7?source=rss-b62bf3bb75c7------2)
 - [When Your OTP Doesn’t Arrive: The Hidden Story Behind Digital Verification](https://levelup.gitconnected.com/when-your-otp-doesnt-arrive-the-hidden-story-behind-digital-verification-20bf8e6b14b4?source=rss-b62bf3bb75c7------2)
 - [Learn sqlx in Rust: a complete mental model + code-first playbook &lpar;with plain-English metaphors&rpar;](https://levelup.gitconnected.com/learn-sqlx-in-rust-a-complete-mental-model-code-first-playbook-with-plain-english-metaphors-0ecf17effbf0?source=rss-b62bf3bb75c7------2)
-- [Global Thinking: How Culture Shapes AI, Rust, and the Future of Problem Solving](https://medium.com/@md.abir1203/global-thinking-how-culture-shapes-ai-rust-and-the-future-of-problem-solving-ce89fb0d6b52?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
