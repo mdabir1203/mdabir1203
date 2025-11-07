@@ -2,13 +2,6 @@
 
 "We build technology solutions with lasting impact, driven by growth mindset and continuous learning."
 
-We co-founded Deep Blue Digital, a global tool discovery platform for creators. While it didn't achieve planned scale, we embraced it as a pivotal learning opportunity that deepened our understanding of product-market fit, stakeholder alignment.
-
-Our foundation at 42 Wolfsburg and AIESEC cultivated our growth mindset in operational execution, strategic problem-solving, and international collaboration.
-
-Our next chapter focuses on identifying and building long-term business partnerships with organizations that share our commitment to continuous improvement, sustainable growth, and AI-enhanced strategic execution.
-Connect with our ongoing journey:
-
 📖 Insights: [medium.com/@md.abir1203](Medium)
 
 🎥 Knowledge Sharing: [https://www.youtube.com/channel/UCPM3MAgkXUOFSfysJuAvthQ](YouTube)
