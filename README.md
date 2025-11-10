@@ -18,11 +18,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Future-Proof Newsletters in 2025: AEO &amp; Geo Optimization Guide](https://medium.com/@md.abir1203/how-to-build-future-proof-newsletters-in-2025-aeo-geo-optimization-guide-d165c1aeb3a1?source=rss-b62bf3bb75c7------2)
 - [Shadowmap x04: Why Trust Can’t Be a Guess in Modern Cybersecurity](https://medium.com/@md.abir1203/shadowmap-x04-why-trust-cant-be-a-guess-in-modern-cybersecurity-a43ac12cfdb4?source=rss-b62bf3bb75c7------2)
 - [Performance Engineering Case Study: Resolving Critical Shadowmap Production Issues](https://medium.com/@md.abir1203/shadowmap-x03-how-we-engineered-the-final-outcome-0b7c7d0e0700?source=rss-b62bf3bb75c7------2)
 - [When CI Pipelines Break: A 5-Whys Deep Dive into the “Shadowmap Hotpath Failure”](https://medium.com/@md.abir1203/when-ci-pipelines-break-a-5-whys-deep-dive-into-the-shadowmap-hotpath-failure-6f1d66fd618f?source=rss-b62bf3bb75c7------2)
 - [The Backslash Bug: How a Tiny Path Glitch in Vite Could Leak Your Secrets](https://medium.com/@md.abir1203/the-backslash-bug-how-a-tiny-path-glitch-in-vite-could-leak-your-secrets-9641de420f5e?source=rss-b62bf3bb75c7------2)
-- [Why I Chose Blue-Green: A Color Philosophy Born from 13 Countries and Countless Conversations](https://medium.com/@md.abir1203/why-i-chose-blue-green-a-color-philosophy-born-from-13-countries-and-countless-conversations-192a30a981e7?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
