@@ -18,11 +18,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [What Really Killed the Internet on November 18, 2025?](https://medium.com/@md.abir1203/what-really-killed-the-internet-on-november-18-2025-1b20c2df657c?source=rss-b62bf3bb75c7------2)
 - [The Hidden Reason Your Content Isn’t Ranking — And the Notion System That Fixes It](https://levelup.gitconnected.com/the-hidden-reason-your-content-isnt-ranking-and-the-notion-system-that-fixes-it-47c3f89ba0bb?source=rss-b62bf3bb75c7------2)
 - [⚡ Upgrade Your Card. Upgrade Your Identity. ⚡](https://medium.com/@md.abir1203/upgrade-your-card-upgrade-your-identity-656b428761a8?source=rss-b62bf3bb75c7------2)
 - [From Clicks to Culture: How Recommendation Systems Are Shaping Digital Identity](https://levelup.gitconnected.com/from-clicks-to-culture-how-recommendation-systems-are-shaping-digital-identity-66fd699b6c08?source=rss-b62bf3bb75c7------2)
 - [How To Use TrendRadar To Predict Global Trends Before They Happen](https://medium.com/@md.abir1203/how-to-use-trendradar-to-predict-global-trends-before-they-happen-50122f8098bb?source=rss-b62bf3bb75c7------2)
-- [How to Build Future-Proof Newsletters in 2025: AEO &amp; Geo Optimization Guide](https://levelup.gitconnected.com/how-to-build-future-proof-newsletters-in-2025-aeo-geo-optimization-guide-d165c1aeb3a1?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
