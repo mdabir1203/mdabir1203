@@ -1,4 +1,4 @@
-## Who Am I ? 
+## What are aiming in 2026? 
 
 "We build technology solutions with lasting impact, driven by growth mindset and continuous learning."
 
