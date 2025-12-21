@@ -18,11 +18,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of the Polycentric Founder: How to Build Your Next Unicorn in 2026](https://medium.com/@md.abir1203/the-rise-of-the-polycentric-founder-how-to-build-your-next-unicorn-in-2026-b1105c8703de?source=rss-b62bf3bb75c7------2)
 - [Payload Shape Injection: Deep Dive &amp; LLM-Augmented Exploration E2](https://medium.com/@md.abir1203/payload-shape-injection-deep-dive-llm-augmented-exploration-e2-c39ba251bc7b?source=rss-b62bf3bb75c7------2)
 - [How to Fix JavaScript Regex “Range Out of Order” Syntax Errors](https://medium.com/@md.abir1203/how-to-fix-javascript-regex-range-out-of-order-syntax-errors-3e6fe6a2055d?source=rss-b62bf3bb75c7------2)
 - [Payload Shape Injection: The API Security Risk Nobody Names : E1](https://medium.com/@md.abir1203/payload-shape-injection-the-api-security-risk-nobody-names-a820e080a3a1?source=rss-b62bf3bb75c7------2)
 - [How to Configure Google OAuth and Fix the redirect_uri_mismatch Error &lpar;Complete Guide&rpar;](https://medium.com/@md.abir1203/how-to-configure-google-oauth-and-fix-the-redirect-uri-mismatch-error-complete-guide-a6a1aaadf4dd?source=rss-b62bf3bb75c7------2)
-- [The Ultimate Problem-Solving Framework for AI Business Strategy: HDTQ + Enders + Chevallier…](https://medium.com/@md.abir1203/the-ultimate-problem-solving-framework-for-ai-business-strategy-hdtq-enders-chevallier-30fad228575b?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
