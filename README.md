@@ -18,9 +18,9 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of Alert Fatigue: How ShadowMap Leverages Rust and AI to Reclaim Security “Alpha”](https://medium.com/@md.abir1203/how-we-reduced-cloud-security-detection-time-by-40-with-an-ai-assisted-human-in-the-loop-system-eebeacf8b99f?source=rss-b62bf3bb75c7------2)
-- [The $7 Identity: How We Are Decoupling Trust from Infrastructure in Emerging Markets](https://medium.com/@md.abir1203/the-7-identity-how-we-are-decoupling-trust-from-infrastructure-in-emerging-markets-d94b5c14f3f5?source=rss-b62bf3bb75c7------2)
-- [SmartSwap: The Reason SMB Websites must Start Evolving](https://medium.com/@md.abir1203/smartswap-the-reason-smb-websites-must-start-evolving-4be8f89ca55b?source=rss-b62bf3bb75c7------2)
+- [The Death of Alert Fatigue: How ShadowMap Leverages Rust and AI to Reclaim Security “Alpha”](https://towardsdev.com/how-we-reduced-cloud-security-detection-time-by-40-with-an-ai-assisted-human-in-the-loop-system-eebeacf8b99f?source=rss-b62bf3bb75c7------2)
+- [The $7 Identity: How We Are Decoupling Trust from Infrastructure in Emerging Markets](https://levelup.gitconnected.com/the-7-identity-how-we-are-decoupling-trust-from-infrastructure-in-emerging-markets-d94b5c14f3f5?source=rss-b62bf3bb75c7------2)
+- [SmartSwap: The Reason SMB Websites must Start Evolving](https://levelup.gitconnected.com/smartswap-the-reason-smb-websites-must-start-evolving-4be8f89ca55b?source=rss-b62bf3bb75c7------2)
 - [How to Turn Any Idea into Infrastructure-Level Product Thinking through Projects](https://levelup.gitconnected.com/how-to-turn-any-idea-into-infrastructure-level-product-thinking-through-projects-92dca1ddd641?source=rss-b62bf3bb75c7------2)
 - [Muon Optimizer: The Complete Guide to 2× Faster LLM Training and Massive Cost Savings &lpar;2025&rpar;](https://medium.com/@md.abir1203/muon-optimizer-the-complete-guide-to-2-faster-llm-training-and-massive-cost-savings-2025-24046a8d0ad6?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
