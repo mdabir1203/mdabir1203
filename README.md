@@ -18,11 +18,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Search Bar: How NFC Review Stands are Solving the ‘Silent Exit’ for SMEs in 2026](https://medium.com/@md.abir1203/beyond-the-search-bar-how-nfc-review-stands-are-solving-the-silent-exit-for-smes-in-2026-311fd2b5e007?source=rss-b62bf3bb75c7------2)
 - [Prompting with Second Order and Global Context](https://medium.com/@md.abir1203/prompting-with-second-order-and-global-context-ade4630c2b42?source=rss-b62bf3bb75c7------2)
 - [The Death of Alert Fatigue: How ShadowMap Leverages Rust and AI to Reclaim Security “Alpha”](https://towardsdev.com/how-we-reduced-cloud-security-detection-time-by-40-with-an-ai-assisted-human-in-the-loop-system-eebeacf8b99f?source=rss-b62bf3bb75c7------2)
 - [The $7 Identity: How We Are Decoupling Trust from Infrastructure in Emerging Markets](https://levelup.gitconnected.com/the-7-identity-how-we-are-decoupling-trust-from-infrastructure-in-emerging-markets-d94b5c14f3f5?source=rss-b62bf3bb75c7------2)
 - [SmartSwap: The Reason SMB Websites must Start Evolving](https://levelup.gitconnected.com/smartswap-the-reason-smb-websites-must-start-evolving-4be8f89ca55b?source=rss-b62bf3bb75c7------2)
-- [How to Turn Any Idea into Infrastructure-Level Product Thinking through Projects](https://levelup.gitconnected.com/how-to-turn-any-idea-into-infrastructure-level-product-thinking-through-projects-92dca1ddd641?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
