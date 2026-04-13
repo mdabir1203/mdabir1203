@@ -21,7 +21,7 @@
 - [The Architecture of Resonance: Why Branding is Now an Engineering Problem](https://medium.com/@md.abir1203/the-architecture-of-resonance-why-branding-is-now-an-engineering-problem-d2a638e57ac0?source=rss-b62bf3bb75c7------2)
 - [Digital Business Card Trends 2026: How NFC and Multi-Language Solutions Are Shaping Networking](https://medium.com/codetodeploy/digital-business-card-trends-2026-how-nfc-and-multi-language-solutions-are-shaping-networking-bd0f4a213e4e?source=rss-b62bf3bb75c7------2)
 - [How to Use Wavelink NFC Business Cards &amp; Review Stand to Boost Business Globally](https://medium.com/codetodeploy/how-to-use-wavelink-nfc-business-cards-review-stand-to-boost-business-globally-50c491e34d0f?source=rss-b62bf3bb75c7------2)
-- [The “Peon-er Chithi” from Hell: How a 50KB JSON Payload Nearly Toppled a Visa Booking System](https://levelup.gitconnected.com/the-peon-er-chithi-from-hell-how-a-50kb-json-payload-nearly-toppled-a-visa-booking-system-3efc3ca64315?source=rss-b62bf3bb75c7------2)
+- [The “Peon-er Chithi” from Hell: How a 50KB JSON Payload Nearly Toppled a Visa Booking System](https://medium.com/gitconnected/the-peon-er-chithi-from-hell-how-a-50kb-json-payload-nearly-toppled-a-visa-booking-system-3efc3ca64315?source=rss-b62bf3bb75c7------2)
 - [How We Designed a Funky, Outcome-Driven Onboarding System for Fundraising Partners &lpar;With Bangla…](https://medium.com/@md.abir1203/how-we-designed-a-funky-outcome-driven-onboarding-system-for-fundraising-partners-with-bangla-913e78a4a2b9?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
