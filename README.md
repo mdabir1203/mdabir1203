@@ -18,11 +18,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Permissions Are Not Configuration. They Are Law.](https://medium.com/codetodeploy/agent-permissions-are-not-configuration-they-are-law-e8777b694d05?source=rss-b62bf3bb75c7------2)
 - [Who Is That Agent, Really?](https://medium.com/codetodeploy/who-is-that-agent-really-e525bbe4c402?source=rss-b62bf3bb75c7------2)
 - [The 7 Ways an AI Agent Can Betray You &lpar;And the Infrastructure Layer That Stops It&rpar;](https://medium.com/@md.abir1203/you-gave-your-ai-agent-database-credentials-it-just-betrayed-you-e1dbe98bb9fe?source=rss-b62bf3bb75c7------2)
 - [The Architecture of Resonance: Why Branding is Now an Engineering Problem](https://medium.com/@md.abir1203/the-architecture-of-resonance-why-branding-is-now-an-engineering-problem-d2a638e57ac0?source=rss-b62bf3bb75c7------2)
 - [Digital Business Card Trends 2026: How NFC and Multi-Language Solutions Are Shaping Networking](https://medium.com/codetodeploy/digital-business-card-trends-2026-how-nfc-and-multi-language-solutions-are-shaping-networking-bd0f4a213e4e?source=rss-b62bf3bb75c7------2)
-- [How to Use Wavelink NFC Business Cards &amp; Review Stand to Boost Business Globally](https://medium.com/codetodeploy/how-to-use-wavelink-nfc-business-cards-review-stand-to-boost-business-globally-50c491e34d0f?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
