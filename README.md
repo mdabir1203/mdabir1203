@@ -12,6 +12,7 @@
 - Reversed engineered Axios, Tokyo, Serde, Django api to build a complete mental model of the frameworks and explain them in the most simplest manner
 - Next up : Bun - DeepSpeed - Rig
 - Won Redis Side Quest Hackathon for bringing agents to Network Security
+- MIT Hackanation 2026 February Next Top Project (SmartSwap)
 - Reaching out to more than 269K People Worldwide with our Technical Analysis
 
 
