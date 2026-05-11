@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [The Machine That Refuses to Be Supervised](https://levelup.gitconnected.com/the-machine-that-refuses-to-be-supervised-dfeb5a68abac?source=rss-b62bf3bb75c7------2)
 - [The “Cursor-Grade” Auth Protocol: Why Desktop Apps are Moving to the Browser](https://levelup.gitconnected.com/the-cursor-grade-auth-protocol-why-desktop-apps-are-moving-to-the-browser-8f6e51c70fa1?source=rss-b62bf3bb75c7------2)
-- [Build Identity-Driven Ads + Reference Models for Maximum Retention &lpar;CapCut / Dreamina / Pippit&rpar;](https://medium.com/@md.abir1203/build-identity-driven-ads-reference-models-for-maximum-retention-capcut-dreamina-pippit-b41bed838a6a?source=rss-b62bf3bb75c7------2)
+- [Build Identity-Driven Ads + Reference Models for Maximum Retention &lpar;CapCut / Dreamina / Pippit&rpar;](https://blog.devgenius.io/build-identity-driven-ads-reference-models-for-maximum-retention-capcut-dreamina-pippit-b41bed838a6a?source=rss-b62bf3bb75c7------2)
 - [STEP-BY-STEP MULTICULTURAL ENGAGEMENT + CONVERSION Messaging for Content](https://medium.com/@md.abir1203/step-by-step-multicultural-engagement-conversion-messaging-for-content-6b2832118a95?source=rss-b62bf3bb75c7------2)
 - [BUN How Bun Actually Runs JavaScript &lpar;It’s Not Line-by-Line&rpar;](https://levelup.gitconnected.com/bun-how-bun-actually-runs-javascript-its-not-line-by-line-14fd39371320?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
