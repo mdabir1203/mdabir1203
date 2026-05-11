@@ -19,12 +19,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [The “Cursor-Grade” Auth Protocol: Why Desktop Apps are Moving to the Browser](https://medium.com/@md.abir1203/the-cursor-grade-auth-protocol-why-desktop-apps-are-moving-to-the-browser-8f6e51c70fa1?source=rss-b62bf3bb75c7------2)
+- [The Machine That Refuses to Be Supervised](https://levelup.gitconnected.com/the-machine-that-refuses-to-be-supervised-dfeb5a68abac?source=rss-b62bf3bb75c7------2)
+- [The “Cursor-Grade” Auth Protocol: Why Desktop Apps are Moving to the Browser](https://levelup.gitconnected.com/the-cursor-grade-auth-protocol-why-desktop-apps-are-moving-to-the-browser-8f6e51c70fa1?source=rss-b62bf3bb75c7------2)
 - [Build Identity-Driven Ads + Reference Models for Maximum Retention &lpar;CapCut / Dreamina / Pippit&rpar;](https://medium.com/@md.abir1203/build-identity-driven-ads-reference-models-for-maximum-retention-capcut-dreamina-pippit-b41bed838a6a?source=rss-b62bf3bb75c7------2)
 - [STEP-BY-STEP MULTICULTURAL ENGAGEMENT + CONVERSION Messaging for Content](https://medium.com/@md.abir1203/step-by-step-multicultural-engagement-conversion-messaging-for-content-6b2832118a95?source=rss-b62bf3bb75c7------2)
 - [BUN How Bun Actually Runs JavaScript &lpar;It’s Not Line-by-Line&rpar;](https://levelup.gitconnected.com/bun-how-bun-actually-runs-javascript-its-not-line-by-line-14fd39371320?source=rss-b62bf3bb75c7------2)
-- [How Banks Can Hide Sensitive URL Parameters Safely With AES‑256‑GCM in Node.js
-Subtitle](https://medium.com/@md.abir1203/how-banks-can-hide-sensitive-url-parameters-safely-with-aes-256-gcm-in-node-js-subtitle-a2e4009cfb53?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
