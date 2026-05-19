@@ -19,11 +19,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Android Tablet Keeps Dying Mid-Shift — And Your Node.js Server Is the One Killing It](https://medium.com/@md.abir1203/your-android-tablet-keeps-dying-mid-shift-and-your-node-js-server-is-the-one-killing-it-f3422f5bb146?source=rss-b62bf3bb75c7------2)
 - [How Learning Deno Made Me a Better Engineer Everywhere](https://medium.com/@md.abir1203/how-learning-deno-made-me-a-better-engineer-everywhere-debe1bc00eaa?source=rss-b62bf3bb75c7------2)
 - [The Machine That Refuses to Be Supervised](https://levelup.gitconnected.com/the-machine-that-refuses-to-be-supervised-dfeb5a68abac?source=rss-b62bf3bb75c7------2)
 - [The “Cursor-Grade” Auth Protocol: Why Desktop Apps are Moving to the Browser](https://levelup.gitconnected.com/the-cursor-grade-auth-protocol-why-desktop-apps-are-moving-to-the-browser-8f6e51c70fa1?source=rss-b62bf3bb75c7------2)
 - [Build Identity-Driven Ads + Reference Models for Maximum Retention &lpar;CapCut / Dreamina / Pippit&rpar;](https://blog.devgenius.io/build-identity-driven-ads-reference-models-for-maximum-retention-capcut-dreamina-pippit-b41bed838a6a?source=rss-b62bf3bb75c7------2)
-- [STEP-BY-STEP MULTICULTURAL ENGAGEMENT + CONVERSION Messaging for Content](https://medium.com/@md.abir1203/step-by-step-multicultural-engagement-conversion-messaging-for-content-6b2832118a95?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
