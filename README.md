@@ -20,7 +20,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The P&amp;L of Code: Why AI Architecture Is Now a Business Strategy](https://levelup.gitconnected.com/the-p-l-of-code-why-ai-architecture-is-now-a-business-strategy-4dbba7acdae7?source=rss-b62bf3bb75c7------2)
-- [How Creators Build High-Performance Funnels That Turn Views into Revenue](https://ai.gopubby.com/how-creators-build-high-performance-funnels-that-turn-views-into-revenue-ef517408f78d?source=rss-b62bf3bb75c7------2)
+- [How Creators Build High-Performance Funnels That Turn Views into Revenue](https://medium.com/@md.abir1203/how-creators-build-high-performance-funnels-that-turn-views-into-revenue-ef517408f78d?source=rss-b62bf3bb75c7------2)
 - [The 16x Data-Crush Blueprint: How an Impossible Mathematical Magic Trick Shrinks Giant AI…](https://levelup.gitconnected.com/the-16x-data-crush-blueprint-how-an-impossible-mathematical-magic-trick-shrinks-giant-ai-49761761d3e0?source=rss-b62bf3bb75c7------2)
 - [Your Android Tablet Keeps Dying Mid-Shift — And Your Node.js Server Is the One Killing It](https://medium.com/@md.abir1203/your-android-tablet-keeps-dying-mid-shift-and-your-node-js-server-is-the-one-killing-it-f3422f5bb146?source=rss-b62bf3bb75c7------2)
 - [How Learning Deno Made Me a Better Engineer Everywhere](https://medium.com/@md.abir1203/how-learning-deno-made-me-a-better-engineer-everywhere-debe1bc00eaa?source=rss-b62bf3bb75c7------2)
