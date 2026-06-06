@@ -19,7 +19,7 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Serverless Hype: Architecting Frictionless Edge Infrastructure for EV Fleets and…](https://medium.com/@md.abir1203/beyond-the-serverless-hype-architecting-frictionless-edge-infrastructure-for-ev-fleets-and-45e4cce9624e?source=rss-b62bf3bb75c7------2)
+- [Beyond the Serverless Hype: Architecting Frictionless Edge Infrastructure for EV Fleets and…](https://levelup.gitconnected.com/beyond-the-serverless-hype-architecting-frictionless-edge-infrastructure-for-ev-fleets-and-45e4cce9624e?source=rss-b62bf3bb75c7------2)
 - [Podman for Electron Applications: The Modern Foundation for Cross-Platform, AI-Powered Desktop…](https://medium.com/@md.abir1203/podman-for-electron-applications-the-modern-foundation-for-cross-platform-ai-powered-desktop-150098c61a0c?source=rss-b62bf3bb75c7------2)
 - [How to Read an Email Header: A Complete Technical Breakdown](https://towardsdev.com/how-to-read-an-email-header-a-complete-technical-breakdown-035626a88b24?source=rss-b62bf3bb75c7------2)
 - [Building a Resilient Modest Fashion Logistics System: The Abaya Track Story](https://levelup.gitconnected.com/building-a-resilient-modest-fashion-logistics-system-the-abaya-track-story-f46227026c3d?source=rss-b62bf3bb75c7------2)
