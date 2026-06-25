@@ -19,11 +19,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Rust’s Crossbeam: The Engine Behind High-Performance Concurrent Systems](https://medium.com/@md.abir1203/demystifying-rusts-crossbeam-the-engine-behind-high-performance-concurrent-systems-aba451849dca?source=rss-b62bf3bb75c7------2)
 - [মানুষ আন্দোলনে নয়, মানুষে বিশ্বাস রাখে।](https://medium.com/@md.abir1203/people-dont-join-movements-they-join-other-people-here-s-how-to-engineer-that-on-purpose-e1f9876a94ce?source=rss-b62bf3bb75c7------2)
 - [The Death of Linear Systems: How Socratic Architecture Drives 100x Engineering Leverage](https://medium.com/@md.abir1203/the-death-of-linear-systems-how-socratic-architecture-drives-100x-engineering-leverage-cbcb7d44d1d6?source=rss-b62bf3bb75c7------2)
 - [Why Tech Keeps Firing People — Even When It’s Making Money](https://medium.com/@md.abir1203/why-tech-keeps-firing-people-even-when-its-making-money-65f5e70ffafa?source=rss-b62bf3bb75c7------2)
 - [Failed to Load Report: Unexpected Token ‘&lt;’ — Causes, Fixes, and Debugging Guide](https://medium.com/@md.abir1203/failed-to-load-report-unexpected-token-causes-fixes-and-debugging-guide-20e962dd4ced?source=rss-b62bf3bb75c7------2)
-- [The AI Economy’s Missing Layer Isn’t Trust. It’s Proof.](https://medium.com/@md.abir1203/the-ai-economys-missing-layer-isn-t-trust-it-s-proof-8c7e9d95d003?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
