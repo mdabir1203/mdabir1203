@@ -19,11 +19,11 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop Chasing Yield: How to Build Boring, High-Margin USDC Cashflow Systems](https://medium.com/@md.abir1203/stop-chasing-yield-how-to-build-boring-high-margin-usdc-cashflow-systems-e66d440744f2?source=rss-b62bf3bb75c7------2)
 - [There Is No AEO](https://medium.com/@md.abir1203/there-is-no-aeo-19d835d73303?source=rss-b62bf3bb75c7------2)
 - [The Hypergrowth Playbook, Decoded for Bangladesh](https://medium.com/@md.abir1203/the-hypergrowth-playbook-decoded-for-bangladesh-8a959f4e8cb9?source=rss-b62bf3bb75c7------2)
 - [Demystifying Rust’s Crossbeam: The Engine Behind High-Performance Concurrent Systems](https://medium.com/@md.abir1203/demystifying-rusts-crossbeam-the-engine-behind-high-performance-concurrent-systems-aba451849dca?source=rss-b62bf3bb75c7------2)
 - [মানুষ আন্দোলনে নয়, মানুষে বিশ্বাস রাখে।](https://medium.com/@md.abir1203/people-dont-join-movements-they-join-other-people-here-s-how-to-engineer-that-on-purpose-e1f9876a94ce?source=rss-b62bf3bb75c7------2)
-- [The Death of Linear Systems: How Socratic Architecture Drives 100x Engineering Leverage](https://medium.com/@md.abir1203/the-death-of-linear-systems-how-socratic-architecture-drives-100x-engineering-leverage-cbcb7d44d1d6?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
