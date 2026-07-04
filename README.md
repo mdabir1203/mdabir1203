@@ -19,12 +19,12 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Instagram Comments Are Disappearing &lpar;And the First-Principles Fix for 2026&rpar;](https://towardsdev.com/why-your-instagram-comments-are-disappearing-and-the-first-principles-fix-for-2026-d8c630d29431?source=rss-b62bf3bb75c7------2)
 - [Why Your Instagram Comments Are Disappearing &lpar;And The First-Principles Fix for 2026&rpar;
 Recently, we…](https://medium.com/@md.abir1203/why-your-instagram-comments-are-disappearing-and-the-first-principles-fix-for-2026-recently-we-9d9eea5783dc?source=rss-b62bf3bb75c7------2)
 - [The Gulf–Bangladesh corridor moves $1.8 billion in goods a year — and almost nothing in trust](https://medium.com/@md.abir1203/the-gulf-bangladesh-corridor-moves-1-8-billion-in-goods-a-year-and-almost-nothing-in-trust-a4aada8b2dd4?source=rss-b62bf3bb75c7------2)
 - [Stop Chasing Yield: How to Build Boring, High-Margin USDC Cashflow Systems](https://medium.com/@md.abir1203/stop-chasing-yield-how-to-build-boring-high-margin-usdc-cashflow-systems-e66d440744f2?source=rss-b62bf3bb75c7------2)
 - [There Is No AEO](https://medium.com/@md.abir1203/there-is-no-aeo-19d835d73303?source=rss-b62bf3bb75c7------2)
-- [The Hypergrowth Playbook, Decoded for Bangladesh](https://medium.com/@md.abir1203/the-hypergrowth-playbook-decoded-for-bangladesh-8a959f4e8cb9?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
