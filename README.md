@@ -19,7 +19,7 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Local Optimization: A Systems Architect’s Practical Guide to the Theory of Constraints &lpar;TOC&rpar;…](https://medium.com/@md.abir1203/beyond-local-optimization-a-systems-architects-practical-guide-to-the-theory-of-constraints-toc-d9cc0d85da6a?source=rss-b62bf3bb75c7------2)
+- [Beyond Local Optimization: A Systems Architect’s Practical Guide to the Theory of Constraints…](https://medium.com/@md.abir1203/beyond-local-optimization-a-systems-architects-practical-guide-to-the-theory-of-constraints-toc-d9cc0d85da6a?source=rss-b62bf3bb75c7------2)
 - [# The Future of Bangladesh Exports: Unlocking EU and GCC Markets with Digital Trust
 For Bangladesh…](https://medium.com/@md.abir1203/the-future-of-bangladesh-exports-unlocking-eu-and-gcc-markets-with-digital-trust-for-bangladesh-afa132d94414?source=rss-b62bf3bb75c7------2)
 - [Why Your Instagram Comments Are Disappearing &lpar;And the First-Principles Fix for 2026&rpar;](https://towardsdev.com/why-your-instagram-comments-are-disappearing-and-the-first-principles-fix-for-2026-d8c630d29431?source=rss-b62bf3bb75c7------2)
