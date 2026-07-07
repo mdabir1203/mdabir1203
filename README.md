@@ -19,13 +19,14 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [# The Global Engine Behind the Local Experience: Our Sourcing &amp; Deployment Architecture
+When you…](https://medium.com/@md.abir1203/the-global-engine-behind-the-local-experience-our-sourcing-deployment-architecture-when-you-fe0abf106e80?source=rss-b62bf3bb75c7------2)
 - [Beyond Local Optimization: A Systems Architect’s Practical Guide to the Theory of Constraints…](https://medium.com/@md.abir1203/beyond-local-optimization-a-systems-architects-practical-guide-to-the-theory-of-constraints-toc-d9cc0d85da6a?source=rss-b62bf3bb75c7------2)
 - [# The Future of Bangladesh Exports: Unlocking EU and GCC Markets with Digital Trust
 For Bangladesh…](https://medium.com/@md.abir1203/the-future-of-bangladesh-exports-unlocking-eu-and-gcc-markets-with-digital-trust-for-bangladesh-afa132d94414?source=rss-b62bf3bb75c7------2)
 - [Why Your Instagram Comments Are Disappearing &lpar;And the First-Principles Fix for 2026&rpar;](https://towardsdev.com/why-your-instagram-comments-are-disappearing-and-the-first-principles-fix-for-2026-d8c630d29431?source=rss-b62bf3bb75c7------2)
 - [Why Your Instagram Comments Are Disappearing &lpar;And The First-Principles Fix for 2026&rpar;
 Recently, we…](https://medium.com/@md.abir1203/why-your-instagram-comments-are-disappearing-and-the-first-principles-fix-for-2026-recently-we-9d9eea5783dc?source=rss-b62bf3bb75c7------2)
-- [The Gulf–Bangladesh corridor moves $1.8 billion in goods a year — and almost nothing in trust](https://medium.com/@md.abir1203/the-gulf-bangladesh-corridor-moves-1-8-billion-in-goods-a-year-and-almost-nothing-in-trust-a4aada8b2dd4?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
