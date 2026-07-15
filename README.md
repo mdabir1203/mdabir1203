@@ -19,13 +19,12 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AbayaTrack Chose Cloudflare Access Over Custom Authentication](https://medium.com/@md.abir1203/why-abayatrack-chose-cloudflare-access-over-custom-authentication-e2e2d2c40bba?source=rss-b62bf3bb75c7------2)
 - [The Complete Enterprise Security Architecture Guide &lpar;2026&rpar;](https://python.plainenglish.io/the-complete-enterprise-security-architecture-guide-2026-5881040755f1?source=rss-b62bf3bb75c7------2)
 - [Your Cloudflare Deployment Failed Because of One Outdated Yarn Rule — Here’s the Fix](https://medium.com/@md.abir1203/your-cloudflare-deployment-failed-because-of-one-outdated-yarn-rule-heres-the-fix-cdde654e128e?source=rss-b62bf3bb75c7------2)
 - [The Architecture of Trust: A Blueprint for Cross-Border Scaling
 There is a distinct, rhythmic hum…](https://medium.com/@md.abir1203/the-architecture-of-trust-a-blueprint-for-cross-border-scaling-there-is-a-distinct-rhythmic-hum-e15903f93d8e?source=rss-b62bf3bb75c7------2)
 - [The Free Ledger and Its Toll Roads](https://medium.com/@md.abir1203/the-free-ledger-and-its-toll-roads-ec3ad7c17005?source=rss-b62bf3bb75c7------2)
-- [# The Global Engine Behind the Local Experience: Our Sourcing &amp; Deployment Architecture
-When you…](https://medium.com/@md.abir1203/the-global-engine-behind-the-local-experience-our-sourcing-deployment-architecture-when-you-fe0abf106e80?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 # 🕶️ 
