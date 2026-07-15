@@ -19,7 +19,7 @@
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Enterprise Security Architecture Guide &lpar;2026&rpar;](https://medium.com/@md.abir1203/the-complete-enterprise-security-architecture-guide-2026-5881040755f1?source=rss-b62bf3bb75c7------2)
+- [The Complete Enterprise Security Architecture Guide &lpar;2026&rpar;](https://python.plainenglish.io/the-complete-enterprise-security-architecture-guide-2026-5881040755f1?source=rss-b62bf3bb75c7------2)
 - [Your Cloudflare Deployment Failed Because of One Outdated Yarn Rule — Here’s the Fix](https://medium.com/@md.abir1203/your-cloudflare-deployment-failed-because-of-one-outdated-yarn-rule-heres-the-fix-cdde654e128e?source=rss-b62bf3bb75c7------2)
 - [The Architecture of Trust: A Blueprint for Cross-Border Scaling
 There is a distinct, rhythmic hum…](https://medium.com/@md.abir1203/the-architecture-of-trust-a-blueprint-for-cross-border-scaling-there-is-a-distinct-rhythmic-hum-e15903f93d8e?source=rss-b62bf3bb75c7------2)
