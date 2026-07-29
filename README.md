@@ -1,11 +1,34 @@
-## What are aiming in 2026? 
+Hi, I'm Abir 👋
+I break complex tech down to its bones and teach it like you're 5.
 
-"We build technology solutions with lasting impact, driven by growth mindset and continuous learning."
+📖 Write: Medium
+🎥 Speak: YouTube
+💻 Build: GitHub
 
-📖 Insights: [medium.com/@md.abir1203](Medium)
+What I'm Actually Doing in 2026
+1. Cracking Frameworks Open
+Not just using them—understanding them inside out.
 
-🎥 Knowledge Sharing: [https://www.youtube.com/channel/UCPM3MAgkXUOFSfysJuAvthQ](YouTube)
+Done:
 
+Axios → Tokyo → Serde → Bun → Django
+
+Next:
+
+DeepSpeed → Rig (Rust + LLMs)
+
+Why? So you don't have to suffer through 10,000 lines of source code. I do it. I explain it. You move faster.
+
+2. Winning Hackathons (with real impact)
+Event	Win	What
+Redis Side Quest	🥇 Winner	AI agents for network security
+MIT Hackanation	🏆 Top Project	SmartSwap
+Rule: Never build something that dies after 48 hours. Build infrastructure.
+
+3. Reaching 352,000+ People
+Through technical deep-dives, framework breakdowns, and the occasional "our Cloudflare secret broke everything" story.
+
+2026 target: 1 million+ minds.
 
 ## Things we did 
 
@@ -26,23 +49,31 @@
 - [From HR Database to NFC Tap: Building a Living Digital Identity Infrastructure](https://towardsdev.com/from-hr-database-to-nfc-tap-building-a-living-digital-identity-infrastructure-3ef8f38060f7?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
-# 🕶️ 
-
-```
- _     _ _______ _______ _     _      _______ _     _ _______       _____         _______ __   _ _______ _______   /
- |_____| |_____| |       |____/          |    |_____| |______      |_____] |      |_____| | \  | |______    |     / 
- |     | |     | |_____  |    \_         |    |     | |______      |       |_____ |     | |  \_| |______    |    .  
-                                                                                                                    
-```
 
 **💻 GitHub Hacker Stats**
 - Followers: 218
 - Public Repos: 65
 
-**⚡ Hacker Tip of the Day**  
-> Hack the planet!
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdabir1203&theme=tokyo-night)
+
+
+My 2026 Targets
+
+YouTube	10,000 subscribers
+GitHub Stars	5,000+ across projects
+Reach	1,000,000+ people
+Speaking	1 conference talk in EV related Industry
+Follow Along
+
+I share everything. The wins. The bugs. The "why did this break at 2 AM" moments.
+
+📖 Medium Articles
+
+🎥 YouTube Videos
+
+💻 GitHub Repos
+
 
 ---
 ⚔️ *Automated update every 6h by a secret hacker agent...*
