@@ -70,11 +70,11 @@ Follow Along
 
 I share everything. The wins. The bugs. The "why did this break at 2 AM" moments.
 
-📖 Medium Articles
+📖 [Medium](medium.com/@md.abir1203)
 
-🎥 YouTube Videos
+🎥 [YouTube](youtube.com/@wavelinkd)
 
-💻 GitHub Repos
+💻 [GitHub](github.com/mdabir1203)
 
 
 ---
