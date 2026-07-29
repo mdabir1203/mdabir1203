@@ -1,7 +1,7 @@
 Hi, I'm Abir 👋
 I break complex tech down to its bones and teach it like you're 5.
 
-📖 Write: Medium
+📖 Write: [medium.com/@md.abir1203](Medium)
 🎥 Speak: YouTube
 💻 Build: GitHub
 
