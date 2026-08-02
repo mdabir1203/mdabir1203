@@ -1,11 +1,11 @@
 Hi, I'm Abir 👋
 I break complex tech down to its bones and teach it like you're 5.
 
-📖 Write: [Medium](medium.com/@md.abir1203)
+📖 Write: [Medium](https://medium.com/@md.abir1203)
 
-🎥 Speak: [YouTube](youtube.com/@wavelinkd)
+🎥 Speak: [YouTube](https://youtube.com/@wavelinkd)
 
-💻 Build: [GitHub](github.com/mdabir1203)
+💻 Build: [GitHub](https://github.com/mdabir1203)
 
 What I'm Actually Doing in 2026
 1. Cracking Frameworks Open
