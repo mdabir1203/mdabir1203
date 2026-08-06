@@ -44,11 +44,11 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Enterprise Software is Failing the Invisible AI Audit &lpar;And How to Fix It&rpar;](https://medium.com/@md.abir1203/why-your-enterprise-software-is-failing-the-invisible-ai-audit-and-how-to-fix-it-f178db5eb43e?source=rss-b62bf3bb75c7------2)
 - [The OAuth Loop That Almost Broke Us &lpar;And How We Fixed It&rpar;](https://medium.com/@md.abir1203/the-oauth-loop-that-almost-broke-us-and-how-we-fixed-it-97bfc560c709?source=rss-b62bf3bb75c7------2)
 - [Programmatic SEO in 2026: How to Scale by Role and Market for AI Search &lpar;AEO&rpar;](https://medium.com/@md.abir1203/programmatic-seo-in-2026-how-to-scale-by-role-and-market-for-ai-search-aeo-91d4eae12fe9?source=rss-b62bf3bb75c7------2)
 - [UAE E-Invoicing Compliance &lpar;PINT AE&rpar;: Technical Execution &amp; ERP Architecture Guide](https://medium.com/@md.abir1203/uae-e-invoicing-compliance-pint-ae-technical-execution-erp-architecture-guide-01b06099499b?source=rss-b62bf3bb75c7------2)
 - [We Thought Our WhatsApp CRO Alerts Were Broken. The Real Problem Was a Cloudflare Secret.](https://medium.com/@md.abir1203/we-thought-our-whatsapp-cro-alerts-were-broken-the-real-problem-was-a-cloudflare-secret-29af06741117?source=rss-b62bf3bb75c7------2)
-- [How We Built a Cloudflare-to-WhatsApp Notification Pipeline for Automated CRO Intelligence](https://levelup.gitconnected.com/how-we-built-a-cloudflare-to-whatsapp-notification-pipeline-for-automated-cro-intelligence-134e0794fbaf?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
