@@ -44,11 +44,11 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [DataFlow vs Quadrabay vs VFS Global: Which Is Best for UAE Degree Recognition in 2026?](https://medium.com/@md.abir1203/dataflow-vs-quadrabay-vs-vfs-global-which-is-best-for-uae-degree-recognition-in-2026-a962054717b5?source=rss-b62bf3bb75c7------2)
 - [The Enterprise Pivot: How Securing Environmental Credentials Rewires a Company for Scale](https://medium.com/@md.abir1203/the-enterprise-pivot-how-securing-environmental-credentials-rewires-a-company-for-scale-b0061552eadc?source=rss-b62bf3bb75c7------2)
 - [The Internet Is Not Reliable Enough for the Next Generation of EVs](https://medium.com/@md.abir1203/the-internet-is-not-reliable-enough-for-the-next-generation-of-evs-bdf2991de3db?source=rss-b62bf3bb75c7------2)
 - [Why Your Enterprise Software is Failing the Invisible AI Audit &lpar;And How to Fix It&rpar;](https://medium.com/@md.abir1203/why-your-enterprise-software-is-failing-the-invisible-ai-audit-and-how-to-fix-it-f178db5eb43e?source=rss-b62bf3bb75c7------2)
 - [The OAuth Loop That Almost Broke Us &lpar;And How We Fixed It&rpar;](https://medium.com/@md.abir1203/the-oauth-loop-that-almost-broke-us-and-how-we-fixed-it-97bfc560c709?source=rss-b62bf3bb75c7------2)
-- [Programmatic SEO in 2026: How to Scale by Role and Market for AI Search &lpar;AEO&rpar;](https://medium.com/@md.abir1203/programmatic-seo-in-2026-how-to-scale-by-role-and-market-for-ai-search-aeo-91d4eae12fe9?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
