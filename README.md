@@ -44,11 +44,11 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [How Does a Social Media Spam Filter Work?](https://towardsdev.com/how-does-a-social-media-spam-filter-work-12f71468d1a8?source=rss-b62bf3bb75c7------2)
 - [Demystifying HarmonyOS NEXT: A Deep Dive Into the Architecture, ArkUI, and Distributed Core](https://medium.com/@md.abir1203/demystifying-harmonyos-next-a-deep-dive-into-the-architecture-arkui-and-distributed-core-a223e66cb615?source=rss-b62bf3bb75c7------2)
 - [HarmonyOS NEXT: A First-Principles Systems Breakdown of the Distributed Core, ArkUI, and Edge AI…](https://medium.com/@md.abir1203/harmonyos-next-a-first-principles-systems-breakdown-of-the-distributed-core-arkui-and-edge-ai-64d5e080e17e?source=rss-b62bf3bb75c7------2)
 - [Demystifying HarmonyOS NEXT: A Deep Dive Into the Architecture, ArkUI, and Distributed Core](https://medium.com/@md.abir1203/demystifying-harmonyos-next-a-deep-dive-into-the-architecture-arkui-and-distributed-core-8f1617c9423d?source=rss-b62bf3bb75c7------2)
 - [DataFlow vs Quadrabay vs VFS Global: Which Is Best for UAE Degree Recognition in 2026?](https://medium.com/@md.abir1203/dataflow-vs-quadrabay-vs-vfs-global-which-is-best-for-uae-degree-recognition-in-2026-a962054717b5?source=rss-b62bf3bb75c7------2)
-- [The Enterprise Pivot: How Securing Environmental Credentials Rewires a Company for Scale](https://medium.com/@md.abir1203/the-enterprise-pivot-how-securing-environmental-credentials-rewires-a-company-for-scale-b0061552eadc?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
