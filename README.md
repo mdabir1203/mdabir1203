@@ -15,9 +15,7 @@ Done:
 
 Axios → Tokyo → Serde → Bun → Django
 
-Next:
-
-DeepSpeed → Rig (Rust + LLMs)
+Next: Harmony OS and its Integration through all IOT connections
 
 Why? So you don't have to suffer through 10,000 lines of source code. I do it. I explain it. You move faster.
 
@@ -31,14 +29,6 @@ Rule: Never build something that dies after 48 hours. Build infrastructure.
 Through technical deep-dives, framework breakdowns, and the occasional "our Cloudflare secret broke everything" story.
 
 2026 target: 1 million+ minds.
-
-## Things we did 
-
-- Reversed engineered Axios, Tokyo, Serde, Bun, Django api to build a complete mental model of the frameworks and explain them in the most simplest manner
-- Next up : DeepSpeed - Rig
-- Won Redis Side Quest Hackathon for bringing agents to Network Security
-- MIT Hackanation 2026 February Next Top Project (SmartSwap)
-- Reaching out to more than 269K People Worldwide with our Technical Analysis
 
 
 ## My Technical Post 
@@ -63,9 +53,9 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 My 2026 Targets
 
 YouTube	10,000 subscribers
-GitHub Stars	5,000+ across projects
+GitHub Stars 2,000+ across projects
 Reach	1,000,000+ people
-Speaking	1 conference talk in EV related Industry
+Speaking 1 conference talk in EV related Industry
 Follow Along
 
 I share everything. The wins. The bugs. The "why did this break at 2 AM" moments.
