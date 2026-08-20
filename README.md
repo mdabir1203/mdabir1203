@@ -37,8 +37,8 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 - [Edge-Native OLTP vs. Lakehouse OLAP: An Atomic-Scale Architectural Teardown](https://towardsdev.com/edge-native-oltp-vs-lakehouse-olap-an-atomic-scale-architectural-teardown-f8ac1f86905c?source=rss-b62bf3bb75c7------2)
 - [How Does a Social Media Spam Filter Work?](https://towardsdev.com/how-does-a-social-media-spam-filter-work-12f71468d1a8?source=rss-b62bf3bb75c7------2)
 - [Demystifying HarmonyOS NEXT: A Deep Dive Into the Architecture, ArkUI, and Distributed Core](https://medium.com/@md.abir1203/demystifying-harmonyos-next-a-deep-dive-into-the-architecture-arkui-and-distributed-core-a223e66cb615?source=rss-b62bf3bb75c7------2)
-- [HarmonyOS NEXT: A First-Principles Systems Breakdown of the Distributed Core, ArkUI, and Edge AI…](https://medium.com/@md.abir1203/harmonyos-next-a-first-principles-systems-breakdown-of-the-distributed-core-arkui-and-edge-ai-64d5e080e17e?source=rss-b62bf3bb75c7------2)
-- [Demystifying HarmonyOS NEXT: A Deep Dive Into the Architecture, ArkUI, and Distributed Core](https://medium.com/@md.abir1203/demystifying-harmonyos-next-a-deep-dive-into-the-architecture-arkui-and-distributed-core-8f1617c9423d?source=rss-b62bf3bb75c7------2)
+- [HarmonyOS NEXT: A First-Principles Systems Breakdown of the Distributed Core, ArkUI, and Edge AI…](https://levelup.gitconnected.com/harmonyos-next-a-first-principles-systems-breakdown-of-the-distributed-core-arkui-and-edge-ai-64d5e080e17e?source=rss-b62bf3bb75c7------2)
+- [Demystifying HarmonyOS NEXT: A Deep Dive Into the Architecture, ArkUI, and Distributed Core](https://levelup.gitconnected.com/demystifying-harmonyos-next-a-deep-dive-into-the-architecture-arkui-and-distributed-core-8f1617c9423d?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
