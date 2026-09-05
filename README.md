@@ -35,7 +35,7 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 
 <!-- BLOG-POST-LIST:START -->
 - [How We Fixed a Production Data Integrity Bug That Turned 5,898 Factory Logs Into 0 Completed…](https://levelup.gitconnected.com/how-we-fixed-a-production-data-integrity-bug-that-turned-5-898-factory-logs-into-0-completed-d6469d27d31a?source=rss-b62bf3bb75c7------2)
-- [Does Zero-Copy NAPI Really Enable On-Device AI and 90% Gross Margins?](https://medium.com/@md.abir1203/does-zero-copy-napi-really-enable-on-device-ai-and-90-gross-margins-376b33c77789?source=rss-b62bf3bb75c7------2)
+- [Does Zero-Copy NAPI Really Enable On-Device AI and 90% Gross Margins?](https://python.plainenglish.io/does-zero-copy-napi-really-enable-on-device-ai-and-90-gross-margins-376b33c77789?source=rss-b62bf3bb75c7------2)
 - [Edge-Native OLTP vs. Lakehouse OLAP: An Atomic-Scale Architectural Teardown](https://towardsdev.com/edge-native-oltp-vs-lakehouse-olap-an-atomic-scale-architectural-teardown-f8ac1f86905c?source=rss-b62bf3bb75c7------2)
 - [How Does a Social Media Spam Filter Work?](https://towardsdev.com/how-does-a-social-media-spam-filter-work-12f71468d1a8?source=rss-b62bf3bb75c7------2)
 - [Demystifying HarmonyOS NEXT: A Deep Dive Into the Architecture, ArkUI, and Distributed Core](https://medium.com/@md.abir1203/demystifying-harmonyos-next-a-deep-dive-into-the-architecture-arkui-and-distributed-core-a223e66cb615?source=rss-b62bf3bb75c7------2)
