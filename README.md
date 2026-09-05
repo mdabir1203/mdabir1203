@@ -11,21 +11,15 @@ What I'm Actually Doing in 2026
 1. Cracking Frameworks Open
 Not just using them—understanding them inside out.
 
-Done:
-
-Axios → Tokyo → Serde → Bun → Django
-
-Next: Harmony OS and its Integration through all IOT connections
-
 Why? So you don't have to suffer through 10,000 lines of source code. I do it. I explain it. You move faster.
 
-2. Winning Hackathons (with real impact)
+3. Winning Hackathons (with real impact)
 Event	Win	What
 Redis Side Quest	🥇 Winner	AI agents for network security
 MIT Hackanation	🏆 Top Project	SmartSwap
 Rule: Never build something that dies after 48 hours. Build infrastructure.
 
-3. Reaching 352,000+ People
+4. Reaching 352,000+ People
 Through technical deep-dives, framework breakdowns, and the occasional "our Cloudflare secret broke everything" story.
 
 2026 target: 1 million+ minds.
