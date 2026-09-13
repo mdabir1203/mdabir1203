@@ -28,11 +28,11 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph Under the Hood: A Feynman-Style Mental Model for AI Engineers](https://medium.com/@md.abir1203/langgraph-under-the-hood-a-feynman-style-mental-model-for-ai-engineers-27a9e808350c?source=rss-b62bf3bb75c7------2)
+- [LangGraph in Production: Enterprise Case Studies, Deployment Patterns, and Lessons Learned](https://medium.com/@md.abir1203/langgraph-in-production-enterprise-case-studies-deployment-patterns-and-lessons-learned-b45023153c67?source=rss-b62bf3bb75c7------2)
+- [I Spent 6 Months Preparing for an AI Engineer Role.](https://medium.com/@md.abir1203/i-spent-6-months-preparing-for-an-ai-engineer-role-301ea6a11ec5?source=rss-b62bf3bb75c7------2)
 - [How Bangladesh Can Leverage Global Thinking Cultures to Transform Problem-Solving](https://medium.com/@md.abir1203/how-bangladesh-can-leverage-global-thinking-cultures-to-transform-problem-solving-28c3b513d52d?source=rss-b62bf3bb75c7------2)
 - [We Found a VAT Problem in a Dubai Retail Shop — So We Rebuilt the POS Around It](https://medium.com/@md.abir1203/we-found-a-vat-problem-in-a-dubai-retail-shop-so-we-rebuilt-the-pos-around-it-c0fb863906cf?source=rss-b62bf3bb75c7------2)
 - [How We Fixed a Production Data Integrity Bug That Turned 5,898 Factory Logs Into 0 Completed…](https://levelup.gitconnected.com/how-we-fixed-a-production-data-integrity-bug-that-turned-5-898-factory-logs-into-0-completed-d6469d27d31a?source=rss-b62bf3bb75c7------2)
-- [Does Zero-Copy NAPI Really Enable On-Device AI and 90% Gross Margins?](https://python.plainenglish.io/does-zero-copy-napi-really-enable-on-device-ai-and-90-gross-margins-376b33c77789?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
