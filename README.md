@@ -28,11 +28,11 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [The Silent Queue: Why Your Content Is Invisible &lpar;And the Exact Day It Finally Explodes&rpar;](https://medium.com/@md.abir1203/the-silent-queue-why-your-content-is-invisible-and-the-exact-day-it-finally-explodes-3e26e60ae8d4?source=rss-b62bf3bb75c7------2)
 - [The Factory Floor Changed How I Think About AI Marketing](https://medium.com/@md.abir1203/the-factory-floor-changed-how-i-think-about-ai-marketing-0ccae4bb6904?source=rss-b62bf3bb75c7------2)
 - [Your App Isn’t Slow. Your Interface Is Making It Feel Slow.](https://medium.com/@md.abir1203/your-app-isnt-slow-your-interface-is-making-it-feel-slow-d81b7b35bf9e?source=rss-b62bf3bb75c7------2)
 - [How Huawei Achieves Gesture-Based File Transfer: A Rigorous Technical Deep Dive](https://medium.com/@md.abir1203/how-huawei-achieves-gesture-based-file-transfer-a-rigorous-technical-deep-dive-15aa495cac96?source=rss-b62bf3bb75c7------2)
 - [LangGraph in Production: Enterprise Case Studies, Deployment Patterns, and Lessons Learned](https://medium.com/@md.abir1203/langgraph-in-production-enterprise-case-studies-deployment-patterns-and-lessons-learned-b45023153c67?source=rss-b62bf3bb75c7------2)
-- [I Spent 6 Months Preparing for an AI Engineer Role.](https://medium.com/@md.abir1203/i-spent-6-months-preparing-for-an-ai-engineer-role-301ea6a11ec5?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
