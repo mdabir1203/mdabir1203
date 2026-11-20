@@ -28,11 +28,11 @@ Through technical deep-dives, framework breakdowns, and the occasional "our Clou
 ## My Technical Post 
 
 <!-- BLOG-POST-LIST:START -->
+- [The Graph Is the Memory: What It Costs, What It Returns](https://medium.com/@md.abir1203/the-graph-is-the-memory-what-it-costs-what-it-returns-7fade394a723?source=rss-b62bf3bb75c7------2)
 - [Why I Stopped Animating Mobile Hero Text Top-to-Bottom](https://medium.com/@md.abir1203/why-i-stopped-animating-mobile-hero-text-top-to-bottom-a61f198e0154?source=rss-b62bf3bb75c7------2)
 - [Why You Shouldn’t Upload the Same Video Twice on YouTube &lpar;And How to Distribute Without Splitting…](https://medium.com/@md.abir1203/why-you-shouldnt-upload-the-same-video-twice-on-youtube-and-how-to-distribute-without-splitting-18693058c3a0?source=rss-b62bf3bb75c7------2)
 - [Why Does DeepSeek V4.1‑Flash Use So Much Less RAM? A Critical Q&amp;A *&lpar;with visuals&rpar;*](https://medium.com/@md.abir1203/why-does-deepseek-v4-1-flash-use-so-much-less-ram-a-critical-q-a-with-visuals-5a4f6cc08846?source=rss-b62bf3bb75c7------2)
 - [Engineering Case Study: Fixing a Mobile Scroll Lock on Wavelink &lpar;getwaved.ai&rpar;](https://medium.com/@md.abir1203/engineering-case-study-fixing-a-mobile-scroll-lock-on-wavelink-getwaved-ai-3e0b74579e32?source=rss-b62bf3bb75c7------2)
-- [How to Create 3D Popout Ads with Spatial Depth and Gaussian Splatting: A Step-by-Step Tutorial](https://medium.com/@md.abir1203/how-to-create-3d-popout-ads-with-spatial-depth-and-gaussian-splatting-a-step-by-step-tutorial-46a224eb925b?source=rss-b62bf3bb75c7------2)
 <!-- BLOG-POST-LIST:END -->
 
 
